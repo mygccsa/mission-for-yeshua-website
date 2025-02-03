@@ -359,30 +359,35 @@ function initializeBookCovers() {
 // Mobile Menu JavaScript
 document.addEventListener('DOMContentLoaded', function () {
     const menuToggle = document.querySelector('.menu-toggle');
-    const menuClose = document.querySelector('.menu-close');
     const navLinks = document.querySelector('.nav-links');
-    const menuOverlay = document.querySelector('.menu-overlay');
 
     // Toggle menu
     menuToggle.addEventListener('click', function () {
-        navLinks.classList.add('active');
-        menuOverlay.classList.add('active');
-        document.body.style.overflow = 'hidden'; // Prevent scrolling when menu is open
+        navLinks.classList.toggle('active');
+        // Toggle menu icon
+        const icon = this.querySelector('i');
+        icon.classList.toggle('fa-bars');
+        icon.classList.toggle('fa-times');
     });
 
-    // Close menu
-    function closeMenu() {
-        navLinks.classList.remove('active');
-        menuOverlay.classList.remove('active');
-        document.body.style.overflow = ''; // Restore scrolling
-    }
-
-    menuClose.addEventListener('click', closeMenu);
-    menuOverlay.addEventListener('click', closeMenu);
+    // Close menu when clicking outside
+    document.addEventListener('click', function (event) {
+        if (!event.target.closest('.nav-container')) {
+            navLinks.classList.remove('active');
+            const icon = menuToggle.querySelector('i');
+            icon.classList.remove('fa-times');
+            icon.classList.add('fa-bars');
+        }
+    });
 
     // Close menu when clicking a link
     navLinks.querySelectorAll('a').forEach(link => {
-        link.addEventListener('click', closeMenu);
+        link.addEventListener('click', () => {
+            navLinks.classList.remove('active');
+            const icon = menuToggle.querySelector('i');
+            icon.classList.remove('fa-times');
+            icon.classList.add('fa-bars');
+        });
     });
 });
 
