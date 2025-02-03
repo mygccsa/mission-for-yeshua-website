@@ -423,40 +423,102 @@ body {
     }
 }
 
-/* Mobile Menu Styles */
+/* Mobile Menu Styles - Unified across all pages */
 .menu-toggle {
     display: none;
     background: none;
     border: none;
-    color: #ffffff;
     font-size: 1.5rem;
+    color: #ffffff;
     cursor: pointer;
-    padding: 10px;
+    padding: 0.5rem;
 }
 
+.nav-links {
+    display: flex;
+    gap: 2rem;
+}
+
+/* Mobile Styles */
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
     }
 
     .nav-links {
-        display: none;
-        position: absolute;
-        top: 100%;
-        left: 0;
-        right: 0;
-        background: #17293ad3;
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 280px;
+        height: 100vh;
+        background: #1e293b;
         flex-direction: column;
-        padding: 1rem;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        gap: 0;
+        padding-top: 80px;
+        transition: left 0.3s ease;
+        z-index: 998;
     }
 
-    .nav-links.show-mobile {
-        display: flex;
+    .nav-links.active {
+        left: 0;
     }
 
     .nav-links a {
-        padding: 1rem;
-        border-bottom: 1px solid #eee;
+        width: 100%;
+        padding: 1rem 2rem;
+        border-radius: 0;
+        display: block;
+        text-align: left;
+        color: #ffffff;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-links a:hover {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-links a.active {
+        background: #2563eb;
+        color: #ffffff;
+    }
+
+    /* Close button styling */
+    .menu-close {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: none;
+        border: none;
+        color: #ffffff;
+        font-size: 1.5rem;
+        cursor: pointer;
+        z-index: 999;
+    }
+
+    /* Logo in mobile menu */
+    .mobile-logo {
+        padding: 1rem 2rem;
+        margin-bottom: 1rem;
+        display: block;
+    }
+
+    .mobile-logo img {
+        height: 40px;
+    }
+
+    /* Overlay when menu is open */
+    .menu-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 997;
+    }
+
+    .menu-overlay.active {
+        display: block;
     }
 }
