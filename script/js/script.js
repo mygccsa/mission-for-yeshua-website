@@ -356,27 +356,35 @@ function initializeBookCovers() {
     });
 }
 
-   // Mobile Menu Toggle
-   const menuToggle = document.querySelector('.menu-toggle');
-   const navLinks = document.querySelector('.nav-links');
+// Mobile Menu JavaScript
+document.addEventListener('DOMContentLoaded', function () {
+    const menuToggle = document.querySelector('.menu-toggle');
+    const menuClose = document.querySelector('.menu-close');
+    const navLinks = document.querySelector('.nav-links');
+    const menuOverlay = document.querySelector('.menu-overlay');
 
-   menuToggle.addEventListener('click', () => {
-       navLinks.classList.toggle('show-mobile');
-   });
+    // Toggle menu
+    menuToggle.addEventListener('click', function () {
+        navLinks.classList.add('active');
+        menuOverlay.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Prevent scrolling when menu is open
+    });
 
-   // Close mobile menu when clicking outside
-   document.addEventListener('click', (e) => {
-       if (!e.target.closest('.nav-container')) {
-           navLinks.classList.remove('show-mobile');
-       }
-   });
+    // Close menu
+    function closeMenu() {
+        navLinks.classList.remove('active');
+        menuOverlay.classList.remove('active');
+        document.body.style.overflow = ''; // Restore scrolling
+    }
 
-   // Close mobile menu when clicking a link
-   document.querySelectorAll('.nav-links a').forEach(link => {
-       link.addEventListener('click', () => {
-           navLinks.classList.remove('show-mobile');
-       });
-   });
+    menuClose.addEventListener('click', closeMenu);
+    menuOverlay.addEventListener('click', closeMenu);
+
+    // Close menu when clicking a link
+    navLinks.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', closeMenu);
+    });
+});
 
 
 
