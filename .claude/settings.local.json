@@ -3,7 +3,25 @@
     "allow": [
       "Bash(where convert magick ffmpeg)",
       "Bash(magick:*)",
-      "Bash(ffmpeg:*)"
+      "Bash(ffmpeg:*)",
+      "Bash(git checkout:*)",
+      "Bash(for:*)",
+      "Bash(do git checkout booklet-1/develop)",
+      "Bash(done)",
+      "WebSearch",
+      "WebFetch(domain:99designs.com)",
+      "WebFetch(domain:creativeparamita.com)",
+      "WebFetch(domain:www.thebookdesigner.com)",
+      "WebFetch(domain:virtualpaintbrush.com)",
+      "WebFetch(domain:dribbble.com)",
+      "WebFetch(domain:miblart.com)",
+      "WebFetch(domain:reedsy.com)",
+      "WebFetch(domain:spines.com)",
+      "WebFetch(domain:bookcoverhub.com)",
+      "WebFetch(domain:coverdesignai.com)",
+      "WebFetch(domain:www.pinterest.com)",
+      "WebFetch(domain:bookcoverart.co)",
+      "WebFetch(domain:medium.com)"
     ]
   }
 }
