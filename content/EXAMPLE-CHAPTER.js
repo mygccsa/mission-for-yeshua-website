@@ -25,6 +25,14 @@
  * 5. SUB-HEADING — Section divider within the chapter
  *    { type: "heading", text: "Next Section Title" }
  *
+ * 6. STATEMENT — Standalone emphasized author declaration (centered, italic, gold dividers)
+ *    { type: "statement", text: "A short, impactful declaration the author highlights" }
+ *    NOTE: Use for author declarations only, NOT for scripture (use "quote" for scripture).
+ *
+ * 7. LIST — Bulleted list for enumerations
+ *    { type: "list", items: ["First item", "Second item", "Third item"] }
+ *    NOTE: Preserve bullet/enumeration structure from the source document. Do NOT flatten lists into a single paragraph.
+ *
  * SUPPORTING VERSES — Rendered centered in italic after main content
  *    supportingVerses: [
  *      { text: "Verse text here", ref: "Book Chapter:Verse" }

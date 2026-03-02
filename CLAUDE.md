@@ -67,3 +67,15 @@ The design system uses CSS custom properties defined in `styles.css`:
 ### External Dependencies (CDN)
 - Font Awesome 5.15.3 for icons
 - Google Fonts (Inter family)
+
+### Booklet Content Formatting Rules
+Chapter content files live in `content/booklet-N/chapter-NN.js`. When converting source documents (Word files in `docs/`) to chapter content:
+
+- **Only include what the author wrote** — never add prayers, extra verses, or content not in the source document
+- **`quote` blocks** — ONLY for direct scripture citations with a verse reference (e.g. `{ type: "quote", text: "For God so loved the world...", source: "John 3:16" }`). Blue left border + light blue background.
+- **`statement` blocks** — for standalone emphasized author declarations set apart from the teaching text (e.g. `{ type: "statement", text: "You cannot have the Holy Spirit and still live in sin." }`). Centered italic with gold divider lines. These are NOT scripture — they are short, impactful sentences the author highlights.
+- **`heading` blocks** — for section titles and sub-section titles
+- **`list` blocks** — for bullet points and enumerations from the source document (`{ type: "list", items: [...] }`). Do NOT flatten lists into a single paragraph.
+- **Plain strings** — for ALL teaching/explanatory paragraphs and definitions — even if they are italic or bold in the source document for emphasis. When in doubt, use a plain string.
+- **`callout` blocks** — avoid unless the author explicitly marks something as a key insight box or reflection prompt. Do not use callouts for regular teaching text.
+- **PDF notes page** — each chapter gets a full "Notes & Questions" page at the end of the PDF download

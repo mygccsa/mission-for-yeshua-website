@@ -21,7 +21,9 @@
       "WebFetch(domain:coverdesignai.com)",
       "WebFetch(domain:www.pinterest.com)",
       "WebFetch(domain:bookcoverart.co)",
-      "WebFetch(domain:medium.com)"
+      "WebFetch(domain:medium.com)",
+      "Bash(python3:*)",
+      "Bash(python.exe:*)"
     ]
   }
 }

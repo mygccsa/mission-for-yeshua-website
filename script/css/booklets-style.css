@@ -726,6 +726,17 @@
 .pq p { font-family: 'DM Serif Display', Georgia, serif; font-style: italic; font-size: .95rem; color: #003060; line-height: 1.5; text-align: left !important; margin-bottom: .3rem !important; padding-left: .4rem; }
 .pq-s { font-family: 'Source Sans 3', -apple-system, sans-serif; font-style: normal; font-size: .68rem; color: #8896a8; font-weight: 500; letter-spacing: .04em; padding-left: .4rem; }
 
+/* Statement block — author declarations */
+.st { margin: 1.8rem auto; padding: 1.2rem 1.5rem; text-align: center; position: relative; max-width: 88%; }
+.st::before, .st::after { content: ''; display: block; width: 40px; height: 1px; background: var(--secondary, #b8860b); margin: 0 auto .8rem; }
+.st::after { margin: .8rem auto 0; }
+.st p { font-family: 'DM Serif Display', Georgia, serif; font-style: italic; font-size: .95rem; color: var(--primary-dark, #0d3a5c); line-height: 1.55; margin: 0; }
+
+/* List block */
+.bl { margin: 1.2rem 0; padding: 0 0 0 1.4rem; list-style: none; }
+.bl li { position: relative; padding: .35rem 0 .35rem .8rem; font-size: .88rem; line-height: 1.6; color: #2d3748; }
+.bl li::before { content: '\2022'; position: absolute; left: -.5rem; color: var(--primary, #1e5a8a); font-weight: 700; }
+
 /* Image block */
 .ib { margin: 1.8rem -.5rem; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 16px rgba(0, 48, 96, .08); }
 .ib img { width: 100%; height: auto; display: block; object-fit: cover; max-height: 240px; }
@@ -1033,6 +1044,8 @@
     .pq { margin: 2rem -.5rem; padding: 1.5rem 1.5rem 1.5rem 1.8rem; }
     .pq p { font-size: 1.05rem; line-height: 1.55; }
     .pq-s { font-size: .72rem; }
+    .st p { font-size: 1.05rem; }
+    .bl li { font-size: .92rem; }
     .sv { font-size: .9rem; padding: .8rem .6rem; }
     .sv span { font-size: .7rem; }
     .cl { font-size: .9rem; padding: 1.4rem 1.2rem; }
@@ -1259,6 +1272,22 @@ body.dark-mode .pq p {
 
 body.dark-mode .pq-s {
     color: #64748b;
+}
+
+/* Statement */
+body.dark-mode .st::before, body.dark-mode .st::after {
+    background: var(--secondary-light, #d4a524);
+}
+body.dark-mode .st p {
+    color: #e2e8f0;
+}
+
+/* List */
+body.dark-mode .bl li {
+    color: #cbd5e1;
+}
+body.dark-mode .bl li::before {
+    color: #68BBE3;
 }
 
 /* Callout */
