@@ -1,5 +1,5 @@
 /**
- * Booklet 1, Chapter 12: Eternal Judgment
+ * Booklet 1, Chapter 12: The Resurrection of the Dead
  * Author: Franck
  *
  * See EXAMPLE-CHAPTER.js for all available content block types.

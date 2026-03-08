@@ -6,157 +6,157 @@
  */
 BOOKLET_CONTENT["1-3"] = {
   content: [
-    "It is interesting to see that the Spirit was at the beginning in Genesis (Gen 1:2) and also will be at the end in Revelation (Rev 22:17). Not to be mistaken with any other spirit, the Spirit we are talking about is none other than the Spirit of Eloh\u00EEm (God), the Holy Spirit.",
+    "It is remarkable to see that the Spirit was present at the very beginning of Scripture, hovering over the waters in Genesis 1:2, and will be present at its very end in Revelation 22:17. This is not a coincidence. The Spirit of Eloh\u00EEm has been present throughout all ages, with all whom the Lord has touched and used, from our forefathers to us today.",
 
-    "In Yohanan (John) 16, our Lord, Yehoshoua Mashiah (Jesus Christ), promised His disciples that He would not leave them to be orphans and would send them the Holy Spirit. Hence, not only the Spirit was at the beginning but this also shows that the Spirit is throughout ages with all men that the Lord has touched and is using. This started with our fore-fathers, and is still with us today. This is not a coincidence.",
+    "The Spirit at the beginning hovered over the waters, waiting for the Word of Eloh\u00EEm (God) to execute the work of creation. That same Spirit throughout history has been the Helper every believer needs in their walk with Eloh\u00EEm. And the very same Spirit that raised Yehoshoua (Jesus) from the dead now lives in us (Romans 8:11).",
 
-    "The Spirit at the beginning was hovering over the waters in wait for the Word from Eloh\u00EEm to execute the work of creation. The same Spirit throughout the ages has been and is the Helper needed for all believers in their walk. Likewise, the Spirit at the end in Revelation longs for the return of the Master. Amazingly, the very same Spirit that raised Yehoshoua from the dead also lives in us! (Rom 8:11).",
-
-    "With such impact, presence and multi-faceted roles, it is necessary to understand:",
+    "To understand what this means for your life as a new believer, we need to answer five questions:",
 
     { type: "list", items: [
       "Who is this Spirit?",
-      "Why is the Spirit important or the Spirit\u2019s mission?",
-      "How do we receive this Spirit?",
+      "Why is the Spirit important \u2014 what is His mission?",
+      "How do we receive the Spirit?",
       "What is the ministry of the Spirit?",
-      "Is there any other spirit than this One?"
+      "Is there any other spirit than this one?"
     ] },
-
-    "By the grace of Eloh\u00EEm (God), we will be touching each of the above questions in quest of clarity according to the scriptures.",
 
     { type: "heading", text: "Who Is This Spirit?" },
 
-    "It is necessary to note that when addressing the Spirit, we did not use \u2018what\u2019 but instead \u2018who\u2019. This is because, from its Greek root, \u2018pneuma\u2019, the word Spirit in the Bible has been referred to in a way which emphasizes his personality and character (the \u2018Holy\u2019 Spirit) and also in a way which emphasizes his work and power (the Spirit of \u2018Truth\u2019).",
+    "We ask \u201Cwho\u201D, not \u201Cwhat\u201D, deliberately. The Greek word for Spirit is <i>pneuma</i>, and Scripture speaks of the Spirit in two distinct ways: emphasizing His personality and character (the \u201CHoly\u201D Spirit) and emphasizing His work and power (the Spirit of \u201CTruth\u201D). Both reveal that we are speaking of a Person, not a force.",
 
-    { type: "heading", text: "Personality and Character of the Spirit" },
+    { type: "statement", text: "The Holy Spirit is the Spirit of Eloh\u00EEm, the Spirit of Yehoshoua. He is Eloh\u00EEm." },
 
-    "A person has intellect, emotion, and will. By the intellect we know, by the emotions we feel, and by the will we do. In the below points, we dive deep in the Word to see the personality traits of the Holy Spirit.",
+    { type: "heading", text: "The Spirit Has a Personality" },
+
+    "A person has intellect, emotion, and will. The Holy Spirit has all three.",
 
     { type: "heading", text: "Intellect" },
 
-    "The Bible shows in different occurrences that the Spirit has intellect.",
+    "The Spirit examines all things, even the depths of Eloh\u00EEm. He possesses truth and uses it to guide and teach people. No unintelligent being is capable of such things.",
 
-    { type: "quote", text: "But Eloh\u00EEm has revealed them to us through his Spirit. For the Spirit examines all things, even the depths of Eloh\u00EEm. For who of humans knows the things of a human being, except the spirit of human being in him? So also the things of Eloh\u00EEm no one knows, except the Spirit of Eloh\u00EEm.", source: "1 Corinthians 2:10-11" },
+    { type: "quote", text: "The Spirit examines all things, even the depths of Eloh\u00EEm\u2026 the things of Eloh\u00EEm no one knows, except the Spirit of Eloh\u00EEm.", source: "1 Corinthians 2:10\u201311" },
 
-    { type: "quote", text: "But when he, the Spirit of truth will come, he will guide you in all truth, for he will not speak from himself, but he will speak of whatever he will have heard and he will announce to you the things to come.", source: "Yohanan (John) 16:13" },
-
-    "With these verses, the proof that the Spirit has intellect is that the Spirit, both possesses the truth and is able to use it to guide people by teaching them this truth. An unintelligible being can be capable of such.",
+    { type: "quote", text: "When he, the Spirit of truth will come, he will guide you in all truth, for he will not speak from himself, but he will speak of whatever he will have heard and he will announce to you the things to come.", source: "John 16:13" },
 
     { type: "heading", text: "Emotion" },
 
-    "The Spirit has emotions, can love, hate, yearn, and sorrow.",
+    "The Spirit can be grieved, offended, and He loves. These are not the responses of an impersonal force or influence.",
 
-    { type: "quote", text: "And do not grieve the holy Spirit of Eloh\u00EEm, by whom you have been marked with a seal for the day of redemption.", source: "Ephesians 4:30" },
+    { type: "quote", text: "Do not grieve the holy Spirit of Eloh\u00EEm, by whom you have been marked with a seal for the day of redemption.", source: "Ephesians 4:30" },
 
-    "In the same manner the Spirit can be grieved, we understand that he has love and loves as mentioned by Paulos in Romans 15:30.",
-
-    "Hebrews 10:29 further shows us that the Spirit can be offended:",
-
-    { type: "quote", text: "Of how much worse punishment, do you think, will he be judged worthy, who has trampled under foot the Son of Eloh\u00EEm, and has considered as a profane thing the blood of the covenant, by which he was sanctified, and has insulted the Spirit of grace?", source: "Hebrews 10:29" },
+    { type: "quote", text: "Of how much worse punishment will he be judged worthy who has trampled under foot the Son of Eloh\u00EEm, and has considered as a profane thing the blood of the covenant, and has insulted the Spirit of grace?", source: "Hebrews 10:29" },
 
     { type: "heading", text: "Will" },
 
-    "By the will we do, or act. The Spirit has a will and one way He exercises it is that He leads and guides people. Romans 8:14 says: \u201CFor as many as are led by the Spirit of Eloh\u00EEm, these are sons of Eloh\u00EEm\u201D and in Acts 16:6-7, Paulos and Silas \u201Cwere forbidden by the Holy Spirit to preach the word in Asia\u201D and when \u201Cthey tried to go into Bithynia\u201D the Spirit did not permit them.",
+    "The Spirit acts with purpose and direction. He led Paul and Silas and actively forbade them from entering certain regions (Acts 16:6\u20137). Those who are led by the Spirit of Eloh\u00EEm are sons of Eloh\u00EEm (Romans 8:14).",
 
-    "There are many of the capacities and characteristics that the Holy Spirit has. Some of them are listed below:",
+    "Beyond these three, the Spirit exercises His personality in many ways:",
 
     { type: "list", items: [
-      "He communicates: Revelation 2:7",
-      "He commands: Acts 13:2",
-      "He intercedes: Romans 8:26",
-      "He directs: Acts 8:29",
-      "He testifies about the Mashiah (Christ): Yohanan (John) 15:26",
-      "He appoints: Acts 20:28",
-      "He wars: 1 Timotheos 4:1",
-      "He reassures: Romans 8:15"
+      "He communicates \u2014 Revelation 2:7",
+      "He commands \u2014 Acts 13:2",
+      "He intercedes \u2014 Romans 8:26",
+      "He directs \u2014 Acts 8:29",
+      "He testifies about Mashiah \u2014 John 15:26",
+      "He appoints \u2014 Acts 20:28",
+      "He wars \u2014 1 Timothy 4:1",
+      "He reassures \u2014 Romans 8:15"
     ] },
 
     { type: "heading", text: "Another Helper" },
 
-    "In Yohanan (John) 14:16 the Lord Yehoshoua (Jesus) refers to the Spirit as \u201Canother Helper,\u201D One who, unlike Himself in this respect, would abide with His followers forever. In Yohanan (John) 16:7 the Mashiah (Christ) tells His disciples that it is to their advantage that He goes away \u2014 otherwise, the Helper would not come. It is completely unthinkable that a mere influence or impersonal energy would be regarded as sufficient to take His place when He is away!",
+    "In John 14:16, Yehoshoua calls the Spirit \u201Canother Helper\u201D, one who, unlike Yehoshoua in His earthly presence, would abide with His followers forever. In John 16:7, Yehoshoua tells His disciples it is to their advantage that He goes away, otherwise the Helper would not come to them. It is completely unthinkable that a mere influence or impersonal energy would be regarded as sufficient to take the place of Mashiah.",
 
-    "In the book of Yohanan (John), the word helper is from the Greek \u2018Parakletos\u2019. This is the same word that is rendered \u2018Advocate\u2019 in 1 Yohanan (John) 2:1. This means \u2018one who looks after the interests of others, especially of those who are his dependents\u2019. We may think of the Holy Spirit as our truest and best Helper on earth.",
+    "The word Helper comes from the Greek <i>Parakletos</i>, meaning one who looks after the interests of others, especially those who are his dependents. Some translators render it Comforter, Counselor, Advocate, or Lawyer. All of these help us understand what the Spirit is to us.",
 
-    "For the word \u2018Helper\u2019 some translators have \u2018Comforter,\u2019 or \u2018Counselor,\u2019 or \u2018Advocate,\u2019 or \u2018Solicitor,\u2019 or \u2018Lawyer.\u2019 All of these help us to understand the idea behind the term. Our Lord Yehoshoua (Jesus) is the believer\u2019s Advocate in heaven today (1 Yohanan [John] 2:1), while the Spirit is his Advocate on earth. What a provision Eloh\u00EEm (God) has made for our spiritual maintenance! When the Mashiah (Christ) was on earth, He was everything to the disciples. He answered their questions, calmed their fears, and undertook for their needs. But He has gone back to heaven, and in His place Another has come permanently to do all this for us \u2014 the Person of the Holy Spirit of Eloh\u00EEm (God).",
+    "Yehoshoua is the believer\u2019s Advocate in heaven (1 John 2:1). The Spirit is his Advocate on earth. When Mashiah was on earth, He answered questions, calmed fears, and met every need of His disciples. He has returned to heaven, and in His place, permanently, has come the Holy Spirit.",
 
-    "Furthermore, Yehoshoua says that He will not leave His disciples orphans (Yohanan [John] 14:18). Neither a brother nor a friend could ever say to another person that in their absence, they would be orphans. Only a father can say that. Moreover, who else can play the role of a father if the father is not around if the person does not have the same ability as the father?",
+    "Yehoshoua also said He would not leave His disciples as orphans (John 14:18). Notice: only a father can say that to someone. And who else can play the role of a father when the father is away, if not one who has the same capacity as the father?",
 
-    { type: "statement", text: "The Holy Spirit is the Spirit of Eloh\u00EEm, the Spirit of Yehoshoua, He is Eloh\u00EEm!" },
+    { type: "heading", text: "Why the Spirit Matters: His Mission" },
 
-    { type: "heading", text: "The Importance of the Spirit \u2014 The Spirit\u2019s Mission" },
+    "According to John 16:7\u201311, the Spirit\u2019s mission toward the world is to convict of sin, justice, and judgment. Toward the believer, John 16:12\u201314 tells us He leads into all truth, speaks on behalf of Yehoshoua, and glorifies Yehoshoua.",
 
-    "According to Yohanan (John) 16:7-11, the mission of the Spirit is to convict the world of sin, justice, and judgement. Furthermore, in verse 12-14 of the same chapter, the Bible tells that the Spirit will lead the believer in the whole truth, speak on behalf of Yehoshoua and glorify Yehoshoua. The Holy Spirit teaches and guides the human being along his/her walk with Eloh\u00EEm.",
+    { type: "quote", text: "The Holy Spirit will teach you all things and bring all things to your remembrance.", source: "John 14:26" },
 
-    "In Yohanan (John) 14:26, the Bible also tells us that the Holy Spirit will teach us all things and bring all things to our remembrance. When the world is crushing us with troubles and sorrows, leading us to forget His promises, the Holy Spirit is always present to teach us and remind us of what the Master told us!",
+    "When the troubles of life overwhelm us and cause us to forget Eloh\u00EEm\u2019s promises, the Holy Spirit is always present to teach and to remind us of what the Lord said. He is not distant. He is active.",
 
-    "At the birth from above, the Holy Spirit renews the spirit of the human being on which he places a seal, which is a pledge of adoption. He transforms his/her character and gives him/her gifts for the edification of the Assembly.",
+    "At the new birth, the Holy Spirit renews the spirit of the person who believes. He places His seal as a pledge of adoption, transforms character, and gives gifts for the building up of the Body of Mashiah.",
 
     { type: "statement", text: "You cannot have the Holy Spirit and still live in sin." },
 
-    { type: "heading", text: "Receiving the Holy Spirit" },
+    { type: "heading", text: "How We Receive the Holy Spirit" },
 
-    "Before Pentecost, in Acts 2, the Holy Spirit was at work among men. During the Old Testament times, and even during our Lord\u2019s earthly life, the Spirit came upon certain individuals to accomplish certain specific purposes. He then withdrew when that purpose was fulfilled.",
+    { type: "heading", text: "Before Pentecost" },
 
-    "Examples of this can be found with:",
+    "In the Old Testament and even during the Lord\u2019s earthly life, the Spirit came upon certain individuals to accomplish specific purposes, and then withdrew when that purpose was fulfilled. This was temporary empowering, not permanent indwelling. Examples include:",
 
     { type: "list", items: [
-      "Bezaleel: Exodus 31:3, 35:31",
-      "Othniel: Judges 3:10",
-      "Samson: Judges 13:25, 14:19",
-      "And the priest Azariah: 2 Chronicles 15:1"
+      "Bezaleel \u2014 Exodus 31:3, 35:31",
+      "Othniel \u2014 Judges 3:10",
+      "Samson \u2014 Judges 13:25, 14:19",
+      "The priest Azariah \u2014 2 Chronicles 15:1"
     ] },
 
-    "These men of faith had a temporary empowering of the Holy Spirit. After which, the Holy Spirit departed from them.",
+    "Scripture also shows that the Spirit sometimes came temporarily upon unbelievers, not producing permanent moral change, but to fulfill certain purposes of Eloh\u00EEm (Numbers 24:2, Balaam).",
 
-    "The scripture also shows us that sometimes, the Holy Spirit came temporarily upon even unbelievers, not producing in them any permanent moral changes, but to fulfill certain sovereign designs. In this class we have Balaam (Numbers 24:2).",
+    { type: "heading", text: "In This Age" },
 
-    "During this Church age, our Lord indicated the difference between the Spirit\u2019s relation to the saved before and after Pentecost in the words of John 14:17: \u2018...He abides with you and he will be in you.\u2019 \u2018He abides\u2019 or \u2018He dwells\u2019, present tense. \u2018He will be\u2019 future tense. \u2018With\u2019 or \u2018On\u2019 indicated the Old Covenant\u2019s relation with the believer. \u2018In\u2019 indicates the New Covenant\u2019s truth.",
+    "Yehoshoua described the change clearly in John 14:17: the Spirit \u201Cabides with you and he will be in you.\u201D The shift in these words is the shift from the Old Covenant to the New. \u201CWith\u201D or \u201Cupon\u201D was the Old Covenant relationship. \u201CIn\u201D is the New Covenant truth.",
 
-    "So with the New Covenant\u2019s truth, we receive the Holy Spirit on the day of redemption:",
-
-    { type: "quote", text: "And do not grieve the holy Spirit of Eloh\u00EEm, by whom you have been marked with a seal for the day of redemption.", source: "Ephesians 4:30" },
-
-    "On the day we genuinely accept the Lord Yehoshoua as Lord and Saviour, on the day we receive Him in our hearts, He directly seals us by His Spirit. This is not something a man or pastor or prophet can do. We do not need to pay to receive the Holy Spirit. This is something that He alone, Yehoshoua ha Mashiah does with His children. And He does it freely to those that have truly received and accepted Him.",
+    "On the day we genuinely receive the Lord Yehoshoua as Lord and Saviour \u2014 on that day \u2014 He seals us by His Spirit. No man, pastor, or prophet can do this. It cannot be purchased. Yehoshoua alone does it, freely, for those who have truly received Him.",
 
     { type: "statement", text: "We receive the Holy Spirit by Eloh\u00EEm\u2019s grace on the day of redemption, freely." },
 
-    "Contrary to the Old Covenant where the Spirit came for a short time for a specific purpose, once we have received the Holy Spirit, Yehoshoua promised that He would abide with us forever (Yohanan [John] 14:16). It is the Holy Spirit that confirms our belonging to the Body of the Mashiah. It is through Him that we now become children of Eloh\u00EEm.",
+    "Unlike the Old Covenant where the Spirit came for a season, Yehoshoua promised that once received, the Spirit would abide with us forever (John 14:16). It is the Holy Spirit who confirms our belonging to the Body of Mashiah. It is through Him that we become children of Eloh\u00EEm.",
 
-    { type: "statement", text: "The Holy Spirit confirms our belonging to the Body of the Mashiah." },
+    { type: "quote", text: "But if anyone does not have the Spirit of Mashiah, he is not his.", source: "Romans 8:9" },
 
-    "It is important to understand the difference between receiving or being baptized with the Holy Spirit and living in the fullness of the Spirit. Scripture teaches that we are baptized by the Spirit once in our walk with Eloh\u00EEm, for \u2018in one Spirit we were all baptized into one body\u2019 (1 Corinthians 12:13). There is \u2018one body and one Spirit\u2026 one Lord, one faith, one baptism\u2019 (Ephesians 4:4\u20135). Through this baptism we are brought into the Body of the Mashiah and made to belong to Him, for \u2018anyone who does not have the Spirit of Christ does not belong to Him\u2019 (Romans 8:9). Noting that the world cannot receive this Spirit (Yohanan [John] 14:17).",
+    { type: "heading", text: "Baptism of the Spirit and Fullness of the Spirit" },
 
-    { type: "quote", text: "But you, you are not in the flesh, but in the Spirit, since the Spirit of Eloh\u00EEm dwells in you. But if anyone have not the Spirit of Mashiah, he is not his.", source: "Romans 8:9" },
+    "There is an important distinction every new believer needs to understand.",
 
-    "By this same act, we are sealed and confirmed in Him. As it is written, \u2018having believed, you were sealed with the promised Holy Spirit, who is the guarantee of our inheritance\u2019 (Ephesians 1:13\u201314). Again, \u2018He has put His seal on us and given us His Spirit in our hearts as a guarantee\u2019 (2 Corinthians 1:21\u201322). The Holy Spirit therefore becomes the divine mark of our sonship, bearing witness that we are children of Eloh\u00EEm (Romans 8:14\u201316), and crying within us, \u2018Abba, Father\u2019 (Galatians 4:6).",
+    "One baptism: We are baptized by the Spirit once. \u201CIn one Spirit we were all baptized into one body\u201D (1 Corinthians 12:13). There is \u201Cone body and one Spirit\u2026 one Lord, one faith, one baptism\u201D (Ephesians 4:4\u20135). By this one baptism we are brought into the Body of Mashiah.",
 
-    "Thereafter, though the baptism of the Spirit is once, believers are commanded to live in continual fullness, for we are exhorted, \u2018be filled with the Spirit\u2019 (Ephesians 5:18). This ongoing filling is seen repeatedly among believers who were again filled and empowered (Acts 4:31). It is in this fullness that the manifestation of the Spirit becomes evident, for \u2018to each is given the manifestation of the Spirit for the common good\u2019 (1 Corinthians 12:7). There are diversities of gifts, but the same Spirit works in all (1 Corinthians 12:4\u201311), and the fruit of the Spirit is produced in the life of the believer (Galatians 5:22\u201323).",
+    "Continual filling: Though the baptism is once, believers are commanded to live in ongoing fullness \u2014 \u201Cbe filled with the Spirit\u201D (Ephesians 5:18). This repeated filling is seen throughout Acts (4:31). It is in this fullness that the gifts of the Spirit are manifested and the fruit of the Spirit is produced in the believer\u2019s life.",
 
-    "Thus, through the one baptism of the Holy Spirit we are sealed into the Body of the Mashiah, and through the continual filling of the Spirit we walk in His power, bear His fruit, and manifest His gifts.",
+    "By this same act of receiving the Spirit we are sealed and confirmed in Mashiah: \u201Chaving believed, you were sealed with the promised Holy Spirit, who is the guarantee of our inheritance\u201D (Ephesians 1:13\u201314). The Holy Spirit becomes the divine mark of our sonship, bearing witness that we are children of Eloh\u00EEm (Romans 8:14\u201316), and crying within us, \u201CAbba, Father\u201D (Galatians 4:6).",
+
+    { type: "statement", text: "One baptism of the Spirit, to bring us in. Continual filling, to walk in His power, bear His fruit, and manifest His gifts." },
 
     { type: "heading", text: "The Ministry of the Holy Spirit" },
 
-    "The ministry of the Holy Spirit is threefold:",
+    "The ministry of the Holy Spirit is threefold.",
 
     { type: "heading", text: "1. To Mashiah" },
 
     { type: "quote", text: "When the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father, He will testify of Me.", source: "John 15:26" },
 
-    "Again, \u201CHe will glorify Me, for He will take of what is Mine and declare it to you\u201D (John 16:14). Just as the Son came to represent the Father, so the Spirit has come to glorify the Son. He continuously bears testimony to the perfections of an all-sufficient Mashiah.",
+    { type: "quote", text: "He will glorify Me, for He will take of what is Mine and declare it to you.", source: "John 16:14" },
+
+    "Just as the Son came to represent the Father, the Spirit has come to glorify the Son. He continuously bears testimony to the perfections of an all-sufficient Mashiah.",
 
     { type: "heading", text: "2. To the Church" },
 
-    "Just as Abraham\u2019s servant was sent by the father to woo and win a bride for the absent son (Isaac) and to escort that bride (Rebekah) over the desert to the waiting bridegroom, so the Spirit\u2019s chief work today is to gather out of all nations a \u2018Rebekah\u2019 for the Lord Yehoshoua Mashiah (Genesis 24, 1 Corinthians 12:13 and Ephesians 2:18-22).",
+    "Just as Abraham\u2019s servant was sent by his father to find a bride for the absent son Isaac, and to escort Rebekah across the desert to the waiting bridegroom (Genesis 24), the Spirit\u2019s chief work today is to gather out of all nations a people for the Lord Yehoshoua Mashiah (1 Corinthians 12:13, Ephesians 2:18\u201322).",
 
     { type: "heading", text: "3. To the World" },
 
-    "If the Holy Spirit is the Helper of the saint, He is also the Convicter of the sinner. His chief business among the unconverted is to press upon them their sinful and hopeless condition; that their attitude of enmity toward Christ leads to certain ruin. The Lord Yehoshoua said of the Holy Spirit:",
+    "If the Holy Spirit is the Helper of the believer, He is also the Convicter of the sinner. His work among the unconverted is to press upon them their sinful and hopeless condition and that their rejection of Mashiah leads to certain ruin.",
 
-    { type: "quote", text: "And when He has come, He will convict the world of sin, and of righteousness, and of judgment: of sin, because they do not believe in Me; of righteousness, because I go to My Father and you see Me no more; of judgment, because the ruler of this world is judged.", source: "John 16:8-11" },
+    { type: "quote", text: "When He has come, He will convict the world of sin, and of righteousness, and of judgment: of sin, because they do not believe in Me; of righteousness, because I go to My Father and you see Me no more; of judgment, because the ruler of this world is judged.", source: "John 16:8\u201311" },
 
-    { type: "heading", text: "The Oneness of the Holy Spirit" },
+    { type: "heading", text: "Conclusion" },
 
-    "Why does Paul emphasize ONE Spirit? Paul in Ephesians 4:4 is considering the Church as one body. Just as a human has one spirit (1 Thes 5:23), so does the body of the Mashiah (Christ). This body only has ONE Spirit that joins all members together. There is no other spirit that can do this."
+    "Why does Paul emphasize one Spirit in Ephesians 4:4? Because he is describing the Church as one body. Just as a human being has one spirit (1 Thessalonians 5:23), so the Body of Mashiah has one Spirit joining all its members together. There is no other spirit that can do this.",
+
+    "This matters for the new believer: there are other spirits at work in the world \u2014 spirits of error, deception, and confusion. But there is only one Holy Spirit. He is the Spirit of Eloh\u00EEm. He is the Spirit of Mashiah. And He is the One who now lives in you.",
+
+    { type: "quote", text: "Do not believe every spirit, but test the spirits to see whether they are from Eloh\u00EEm, for many false prophets have gone out into the world.", source: "1 John 4:1" },
+
+    "The measure is always the same: does what you hear glorify Mashiah, align with Scripture, and produce holiness? That is the Spirit of Eloh\u00EEm at work. Anything that contradicts the Word, elevates man above Mashiah, or leads toward sin \u2014 that is not the Spirit we have received.",
+
+    { type: "quote", text: "If the Spirit of him who raised Yehoshoua from the dead dwells in you, he who raised Mashiah Yehoshoua from the dead will also give life to your mortal bodies through his Spirit who dwells in you.", source: "Romans 8:11" }
   ],
   supportingVerses: [],
   closing: ""

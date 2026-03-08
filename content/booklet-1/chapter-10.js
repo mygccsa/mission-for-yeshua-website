@@ -1,6 +1,6 @@
 /**
- * Booklet 1, Chapter 10: The Laying on of Hands
- * Author: Jonathan
+ * Booklet 1, Chapter 10: Forgiveness
+ * Author: (To be assigned)
  *
  * See EXAMPLE-CHAPTER.js for all available content block types.
  */
