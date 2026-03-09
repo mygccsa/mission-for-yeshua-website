@@ -41,7 +41,7 @@ BOOKLET_CONTENT["1-4"] = {
 
     "An important point to note is that: believers themselves are proof of these invisible things. When a life is genuinely transformed by faith in Yehoshoua, that transformation is evidence, visible, living evidence, of what cannot be seen with the physical eye. As 2 Corinthians 5:17 says, anyone in Mashiah (Christ) is a new creation.",
 
-    "The Scriptures contain hundreds of witnesses, testimonies, facts, and documented events whose purpose is to establish beyond doubt the truth and reality of God\u2019s word. Faith is grounded not invented.",
+    "The Scriptures contain hundreds of witnesses, testimonies, facts, and documented events whose purpose is to establish beyond doubt the truth and reality of Eloh\u00EEm\u2019s word. Faith is grounded not invented.",
 
     { type: "heading", text: "Where Faith Comes From" },
 
@@ -132,13 +132,13 @@ BOOKLET_CONTENT["1-4"] = {
 
     "Doubt (<i>diakrino</i> in Greek) means disagreement, hesitation, uncertainty, the opposite of the conviction that faith produces. Its causes include trials, the long wait before a promise is fulfilled, ignorance, and fear. A person in doubt is like a wave of the sea, unstable and tossed in every direction (James 1:6).",
 
-    "Abraham was an example of the model of the opposite: \u201CHe did not waver in unbelief regarding the promise of Eloh\u00EEm, but was strengthened in his faith and gave glory to God, being fully convinced that Eloh\u00EEm was able to do what he had promised\u201D (Romans 4:20\u201321). The solution to doubt is not willpower, it is returning to the Word, searching the Scriptures, and praying for clarity.",
+    "Abraham was an example of the model of the opposite: \u201CHe did not waver in unbelief regarding the promise of Eloh\u00EEm, but was strengthened in his faith and gave glory to Eloh\u00EEm, being fully convinced that Eloh\u00EEm was able to do what he had promised\u201D (Romans 4:20\u201321). The solution to doubt is not willpower, it is returning to the Word, searching the Scriptures, and praying for clarity.",
 
     { type: "heading", text: "3. The Appearance of Piety" },
 
     "This is the danger of replacing genuine faith with outward religious performance, legalism, formalism, and hypocrisy. There are several forms: seeking justification through keeping the law of Moses, excessive attachment to rules and rituals, and performing religious duties to be seen by others.",
 
-    "The result is a faith that has the appearance of godliness but denies its power (2 Timothy 3:5). Yehoshoua\u2019s sacrifice is complete and sufficient. \u201CFor by a single offering he has perfected for all time those who are being sanctified\u201D (Hebrews 10:14). Adding anything to the cross as a requirement for salvation is to nullify the grace of God.",
+    "The result is a faith that has the appearance of godliness but denies its power (2 Timothy 3:5). Yehoshoua\u2019s sacrifice is complete and sufficient. \u201CFor by a single offering he has perfected for all time those who are being sanctified\u201D (Hebrews 10:14). Adding anything to the cross as a requirement for salvation is to nullify the grace of Eloh\u00EEm.",
 
     { type: "quote", text: "You are severed from Christ, you who would be justified by the law. You have fallen away from grace.", source: "Galatians 5:4" },
 

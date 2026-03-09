@@ -79,3 +79,16 @@ Chapter content files live in `content/booklet-N/chapter-NN.js`. When converting
 - **Plain strings** — for ALL teaching/explanatory paragraphs and definitions — even if they are italic or bold in the source document for emphasis. When in doubt, use a plain string.
 - **`callout` blocks** — avoid unless the author explicitly marks something as a key insight box or reflection prompt. Do not use callouts for regular teaching text.
 - **PDF notes page** — each chapter gets a full "Notes & Questions" page at the end of the PDF download
+
+### Hebrew/Greek Name Convention (MANDATORY for all chapters)
+Use Hebrew/Greek names for the divine names throughout all chapter content — in teaching text, headings, list items, and even within scripture quote blocks:
+
+- **Elohim** = God (first mention in a chapter: `Elohim (God)`, all subsequent mentions: `Elohim`)
+- **Yehoshua** = Jesus (first mention: `Yehoshua (Jesus)`, subsequent: `Yehoshua`)
+- **Mashiah** = Christ (first mention: `Mashiah (Christ)`, subsequent: `Mashiah`)
+- **Yehoshua Mashiah** = Jesus Christ (first mention: `Yehoshua Mashiah (Jesus Christ)`, subsequent: `Yehoshua Mashiah`)
+- **YHWH** or **the LORD** — leave as-is in scripture quotations where it appears
+
+The "first mention" rule applies **per chapter file** — each chapter independently introduces the name with its translation on the very first occurrence, then drops the translation for all subsequent uses.
+
+Note: Some authors use variant spellings (`Elohîm`, `Yehoshoua`) — do not change an author's chosen spelling, but apply the same first-mention rule.
