@@ -23,7 +23,16 @@
       "WebFetch(domain:bookcoverart.co)",
       "WebFetch(domain:medium.com)",
       "Bash(python3:*)",
-      "Bash(python.exe:*)"
+      "Bash(python.exe:*)",
+      "Bash(py:*)",
+      "Bash(python:*)",
+      "Bash(node:*)",
+      "Bash(do echo \"=== $f ===\")",
+      "Read(//c/Users/jules/Documents/code/m4y/mission-for-yeshua-website/**)",
+      "Bash(python3.exe:*)",
+      "Bash(git:*)",
+      "Bash(wc:*)",
+      "Bash(python3.11:*)"
     ]
   }
 }
