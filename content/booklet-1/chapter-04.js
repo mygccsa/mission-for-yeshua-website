@@ -209,9 +209,6 @@ BOOKLET_CONTENT["1-4"] = {
     "Yaacov": "James",
     "Bereshit": "Genesis",
     "Yehudah": "Jude",
-    "1 Petros": "1 Peter",
-    "Eloh\u00EEm": "God",
-    "Yehoshoua": "Jesus",
-    "Mashiah": "Christ"
+    "1 Petros": "1 Peter"
   }
 };

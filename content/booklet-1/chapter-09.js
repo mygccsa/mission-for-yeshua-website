@@ -122,8 +122,6 @@ BOOKLET_CONTENT["1-9"] = {
     "Mattithyah": "Matthew",
     "Loukas": "Luke",
     "1 Petros": "1 Peter",
-    "2 Petros": "2 Peter",
-    "Eloh\u00EEm": "God",
-    "Mashiah": "Christ"
+    "2 Petros": "2 Peter"
   }
 };

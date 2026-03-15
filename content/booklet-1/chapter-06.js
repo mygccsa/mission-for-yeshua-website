@@ -29,9 +29,6 @@ BOOKLET_CONTENT["1-6"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Paulos": "Paul",
-    "Elohim": "God",
-    "Yehoshua": "Jesus",
-    "Mashiah": "Christ"
+    "Paulos": "Paul"
   }
 };
