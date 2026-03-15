@@ -92,7 +92,7 @@ BOOKLET_CONTENT["1-10"] = {
 
     "Humility is the foundation of true prayer. In Luke 18:13\u201314, Yehoshua contrasts the proud Pharisee with the humble tax collector. The Pharisee boasts of his righteousness, while the tax collector simply bows his head and cries out, \u201CElohim, be merciful to me, a sinner.\u201D Yehoshua declares that it was the tax collector who went home justified before Elohim. This shows that Elohim honours not eloquence or self-righteousness, but a heart that recognizes its need for mercy.",
 
-    { type: "quote", text: "A broken and contrite heart, O God, you will not despise.", source: "Psalm 51:17" },
+    { type: "quote", text: "A broken and contrite heart, O Elohim, you will not despise.", source: "Psalm 51:17" },
 
     "David, after his sin, understood that sacrifices and rituals alone could not restore fellowship with Elohim. What Elohim desires is a spirit humbled by repentance, a heart that admits guilt and seeks forgiveness.",
 

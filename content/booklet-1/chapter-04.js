@@ -7,7 +7,7 @@
  */
 BOOKLET_CONTENT["1-4"] = {
   content: [
-    "Faith is the foundation upon which our entire relationship with Eloh\u00EEm is built. In Ephesians 4:4\u20136, Paul lists the pillars that unite the Body of Mashiah \u2014 one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all. Among these, faith holds a central place: it is the very means by which we receive salvation and walk with Eloh\u00EEm. But what is this \u2018one faith\u2019? This chapter explores what faith truly is, where it comes from, what it produces, what threatens it, and how to keep it.",
+    "Faith is the foundation upon which our entire relationship with Eloh\u00EEm (God) is built. In Ephesians 4:4\u20136, Paul lists the pillars that unite the Body of Mashiah (Christ) \u2014 one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all. Among these, faith holds a central place: it is the very means by which we receive salvation and walk with Eloh\u00EEm. But what is this \u2018one faith\u2019? This chapter explores what faith truly is, where it comes from, what it produces, what threatens it, and how to keep it.",
 
     { type: "heading", text: "Belief Is Not the Same as Faith" },
 

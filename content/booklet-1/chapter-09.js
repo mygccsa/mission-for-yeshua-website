@@ -17,7 +17,7 @@ BOOKLET_CONTENT["1-9"] = {
     "The author establishes the supremacy of Mashiah (Christ) over everything they had known:",
 
     { type: "list", items: [
-      "Hebrews 1:1\u20132 \u2014 Eloh\u00EEm no longer speaks through prophets alone. He has spoken finally and fully through His Son.",
+      "Hebrews 1:1\u20132 \u2014 Eloh\u00EEm (God) no longer speaks through prophets alone. He has spoken finally and fully through His Son.",
       "Hebrews 4:14\u201315 \u2014 Yehoshoua is the ultimate High Priest, surpassing the entire Levitical priesthood.",
       "Hebrews 8:6\u20137 \u2014 The New Covenant through Mashiah is superior to the Old.",
       "Hebrews 10:1 \u2014 The Old Testament law and sacrifices were inadequate. Mashiah is their fulfillment and reality."

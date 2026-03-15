@@ -57,7 +57,7 @@ BOOKLET_CONTENT["1-3"] = {
       "He commands \u2014 Acts 13:2",
       "He intercedes \u2014 Romans 8:26",
       "He directs \u2014 Acts 8:29",
-      "He testifies about Mashiah \u2014 John 15:26",
+      "He testifies about Mashiah (Christ) \u2014 John 15:26",
       "He appoints \u2014 Acts 20:28",
       "He wars \u2014 1 Timothy 4:1",
       "He reassures \u2014 Romans 8:15"
