@@ -32,7 +32,8 @@
       "Bash(python3.exe:*)",
       "Bash(git:*)",
       "Bash(wc:*)",
-      "Bash(python3.11:*)"
+      "Bash(python3.11:*)",
+      "WebFetch(domain:dev.bibledeyehoshouahamashiah.org)"
     ]
   }
 }
