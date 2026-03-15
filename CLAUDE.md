@@ -68,6 +68,16 @@ The design system uses CSS custom properties defined in `styles.css`:
 - Font Awesome 5.15.3 for icons
 - Google Fonts (Inter family)
 
+### Bible Translation (MANDATORY)
+All scripture quotations in booklet chapters MUST be taken from the **BYMEN** (Bible of Yehoshua ha Mashiah — English) translation. This is the authoritative Bible version for this project.
+
+- **Online reader:** https://dev.bibledeyehoshouahamashiah.org/bym-trad/lire.html (select BYMEN version)
+- **Direct text access:** `https://dev.bibledeyehoshouahamashiah.org/bym-trad/content/texts/BYMEN/{SECTION}.html` where `{SECTION}` is the book code + chapter number (e.g. `EP4` for Ephesians 4, `JN1` for John 1, `GN1` for Genesis 1)
+- **Book codes:** GN (Genesis), EX (Exodus), LV (Leviticus), NU (Numbers), DT (Deuteronomy), JS (Joshua), JG (Judges), RT (Ruth), S1/S2 (1/2 Samuel), K1/K2 (1/2 Kings), R1/R2 (1/2 Chronicles), ER (Ezra), NH (Nehemiah), ET (Esther), JB (Job), PS (Psalms), PR (Proverbs), EC (Ecclesiastes), SS (Song of Solomon), IS (Isaiah), JR (Jeremiah), LM (Lamentations), EK (Ezekiel), DN (Daniel), HS (Hosea), JL (Joel), AM (Amos), OB (Obadiah), JH (Jonah), MC (Micah), NM (Nahum), HK (Habakkuk), ZP (Zephaniah), HG (Haggai), ZC (Zechariah), ML (Malachi), MT (Matthew), MK (Mark), LK (Luke), JN (John), AC (Acts), RM (Romans), C1/C2 (1/2 Corinthians), GL (Galatians), EP (Ephesians), PP (Philippians), CL (Colossians), H1/H2 (1/2 Thessalonians), T1/T2 (1/2 Timothy), TT (Titus), PM (Philemon), HB (Hebrews), JM (James), P1/P2 (1/2 Peter), J1/J2/J3 (1/2/3 John), JD (Jude), RV (Revelation)
+- The BYMEN HTML contains Strong's markup (`<l>` tags) — extract only the plain text words when quoting
+- **BYMEN book names** — use Hebrew/Greek names in `source` fields and references: Bereshit (Genesis), Shemot (Exodus), Vayikra (Leviticus), Devarim (Deuteronomy), Tehilim (Psalms), Mishlei (Proverbs), Yesha'yah (Isaiah), Yirmeyah (Jeremiah), Daniyel (Daniel), Hoshea (Hosea), Mattithyah (Matthew), Markos (Mark), Loukas (Luke), Yohanan (John), 1/2 Petros (1/2 Peter), 1/2/3 Yohanan (1/2/3 John), Yaacov (James), Yehudah (Jude). NT epistles (Romans, Corinthians, Galatians, Ephesians, etc.) and Revelation keep English names.
+- **Footnotes** — each chapter has a `footnotes` object mapping BYMEN book/person names to English equivalents (rendered at the bottom of each chapter in web view and PDF)
+
 ### Booklet Content Formatting Rules
 Chapter content files live in `content/booklet-N/chapter-NN.js`. When converting source documents (Word files in `docs/`) to chapter content:
 

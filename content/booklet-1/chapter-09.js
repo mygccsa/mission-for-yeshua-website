@@ -39,9 +39,9 @@ BOOKLET_CONTENT["1-9"] = {
 
     "Three different Greek words are translated as \u201Crepentance\u201D in the New Testament. Each one reveals a different layer of what true repentance involves.",
 
-    "<i>Metamelomai</i> (Matthew 27:3) \u2014 Regret. Feeling remorse. This is the emotional response to having done wrong.",
+    "<i>Metamelomai</i> (Mattithyah 27:3) \u2014 Regret. Feeling remorse. This is the emotional response to having done wrong.",
 
-    "<i>Metanoeo</i> (Matthew 3:2) \u2014 A change of one\u2019s mind and purpose as a result of new knowledge. This goes deeper than feeling \u2014 it reaches the thinking.",
+    "<i>Metanoeo</i> (Mattithyah 3:2) \u2014 A change of one\u2019s mind and purpose as a result of new knowledge. This goes deeper than feeling \u2014 it reaches the thinking.",
 
     "<i>Metanoia</i> (Hebrews 6:1) \u2014 A change of mind, a turning around. A fundamental transformation in thinking and attitude toward sin and righteousness. This is the word used in our passage.",
 
@@ -52,12 +52,12 @@ BOOKLET_CONTENT["1-9"] = {
     "Scripture gives us three clear reasons:",
 
     { type: "list", items: [
-      "For the forgiveness of sins: Acts 2:38; Luke 24:46\u201347. Repentance is the door through which forgiveness enters.",
-      "It is Eloh\u00EEm\u2019s desire for every person: 2 Peter 3:9. Eloh\u00EEm is not willing that any should perish. Repentance is the path He has made available to all.",
+      "For the forgiveness of sins: Acts 2:38; Loukas 24:46\u201347. Repentance is the door through which forgiveness enters.",
+      "It is Eloh\u00EEm\u2019s desire for every person: 2 Petros 3:9. Eloh\u00EEm is not willing that any should perish. Repentance is the path He has made available to all.",
       "It is a command: Acts 17:30. Eloh\u00EEm commands all people everywhere to repent. This is not a suggestion."
     ] },
 
-    "And the consequence of refusing to repent is stated plainly in Luke 13:3.",
+    "And the consequence of refusing to repent is stated plainly in Loukas 13:3.",
 
     { type: "heading", text: "What Are Dead Works?" },
 
@@ -89,9 +89,9 @@ BOOKLET_CONTENT["1-9"] = {
 
     { type: "heading", text: "The Process of Repentance" },
 
-    "The parable of the prodigal son in Luke 15:11 shows us what the process of repentance looks like in practice. The son\u2019s journey home is a picture of what true repentance involves at every step.",
+    "The parable of the prodigal son in Loukas 15:11 shows us what the process of repentance looks like in practice. The son\u2019s journey home is a picture of what true repentance involves at every step.",
 
-    { type: "quote", text: "But when he came to himself, he said: How many of my father\u2019s hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, Father, I have sinned against heaven and before you.", source: "Luke 15:17\u201318" },
+    { type: "quote", text: "But when he came to himself, he said: How many of my father\u2019s hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, Father, I have sinned against heaven and before you.", source: "Loukas 15:17\u201318" },
 
     { type: "list", items: [
       "Acknowledge our sinful nature \u2014 The son \u201Ccame to himself.\u201D He saw clearly where he was and how he had arrived there. Repentance begins with honest self-recognition, not blame-shifting, not minimizing, but seeing the truth about our own condition.",
@@ -117,5 +117,13 @@ BOOKLET_CONTENT["1-9"] = {
     { type: "quote", text: "For whoever has entered Eloh\u00EEm\u2019s rest has also rested from his works as Eloh\u00EEm did from his.", source: "Hebrews 4:10" }
   ],
   supportingVerses: [],
-  closing: ""
+  closing: "",
+  footnotes: {
+    "Mattithyah": "Matthew",
+    "Loukas": "Luke",
+    "1 Petros": "1 Peter",
+    "2 Petros": "2 Peter",
+    "Eloh\u00EEm": "God",
+    "Mashiah": "Christ"
+  }
 };

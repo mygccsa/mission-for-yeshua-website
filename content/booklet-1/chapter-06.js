@@ -27,5 +27,11 @@ BOOKLET_CONTENT["1-6"] = {
     { type: "quote", text: "As there is one bread, we, who are many, are one body, for we all partake of the one bread.", source: "1 Corinthians 10:17" },
   ],
   supportingVerses: [],
-  closing: ""
+  closing: "",
+  footnotes: {
+    "Paulos": "Paul",
+    "Elohim": "God",
+    "Yehoshua": "Jesus",
+    "Mashiah": "Christ"
+  }
 };

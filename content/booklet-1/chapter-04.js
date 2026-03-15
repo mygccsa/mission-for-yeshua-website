@@ -13,11 +13,11 @@ BOOKLET_CONTENT["1-4"] = {
 
     "The first thing to understand is the difference between believing something and having faith. These are not the same thing and the difference is everything.",
 
-    { type: "quote", text: "You believe that Eloh\u00EEm (God) is one. You do well. Even the demons believe \u2014 and shudder.", source: "James 2:19" },
+    { type: "quote", text: "You believe that Eloh\u00EEm (God) is one. You do well. Even the demons believe \u2014 and shudder.", source: "Yaacov 2:19" },
 
     "All creatures, even demons, hold beliefs in their minds. Belief at that level is purely intellectual: it simply means acknowledging that something is true. But this kind of mental agreement does not transform a life.",
 
-    "Faith in Yehoshoua (Jesus) is something far deeper. It is a true and profound adherence of the spirit and the heart, not just the intellect. This is why faith is not optional. Having faith in Yehoshoua is a commandment (1 John 3:23), which means failing to have it is not merely a mistake, it is a sin.",
+    "Faith in Yehoshoua (Jesus) is something far deeper. It is a true and profound adherence of the spirit and the heart, not just the intellect. This is why faith is not optional. Having faith in Yehoshoua is a commandment (1 Yohanan 3:23), which means failing to have it is not merely a mistake, it is a sin.",
 
     { type: "statement", text: "Belief stays in the head. Faith transforms the whole person: body, soul, and spirit." },
 
@@ -33,7 +33,7 @@ BOOKLET_CONTENT["1-4"] = {
 
     "The Greek word translated substance is <i>hupostasis</i>, meaning foundation, base, the essential element on which everything else rests. Faith is the foundation of what we hope for. Our hopes do not float in the air. Faith is what gives them weight and reality.",
 
-    "This is why Yehoshoua repeatedly said, \u201CAccording to your faith be it done to you\u201D (Matthew 8:13, 9:29). What we hope God will do in our lives rests directly on the faith we have in His ability to do it. The woman with the issue of blood is a powerful example \u2014 she said to herself, \u201CIf I only touch his garment, I will be made well,\u201D and power went out from Yehoshoua and healed her immediately (Luke 8:43\u201348).",
+    "This is why Yehoshoua repeatedly said, \u201CAccording to your faith be it done to you\u201D (Mattithyah 8:13, 9:29). What we hope God will do in our lives rests directly on the faith we have in His ability to do it. The woman with the issue of blood is a powerful example \u2014 she said to herself, \u201CIf I only touch his garment, I will be made well,\u201D and power went out from Yehoshoua and healed her immediately (Loukas 8:43\u201348).",
 
     { type: "heading", text: "Part Two: The Conviction of Things Not Seen" },
 
@@ -70,7 +70,7 @@ BOOKLET_CONTENT["1-4"] = {
 
     { type: "heading", text: "The Word Must Be Protected" },
 
-    "Because the Word is the sole source of faith, it must be guarded in its truth. Jude 1:3 calls believers to \u201Ccontend earnestly for the faith that was once for all delivered to the saints.\u201D Everything needed to know Eloh\u00EEm\u2019s will is already contained in the Bible, from Genesis to Revelation. Any teaching, book, or doctrine placed on equal footing with or above the Gospel of Yehoshoua must be rejected.",
+    "Because the Word is the sole source of faith, it must be guarded in its truth. Yehudah 1:3 calls believers to \u201Ccontend earnestly for the faith that was once for all delivered to the saints.\u201D Everything needed to know Eloh\u00EEm\u2019s will is already contained in the Bible, from Genesis to Revelation. Any teaching, book, or doctrine placed on equal footing with or above the Gospel of Yehoshoua must be rejected.",
 
     "For new believers: You do not yet need to know everything. But you must learn to test what you hear against the Bible. A teacher who is faithful will always point you to Yehoshoua alone and will never add requirements beyond faith for salvation.",
 
@@ -78,7 +78,7 @@ BOOKLET_CONTENT["1-4"] = {
 
     { type: "heading", text: "Salvation, The Goal of Faith" },
 
-    { type: "quote", text: "\u2026obtaining the outcome of your faith, the salvation of your souls.", source: "1 Peter 1:9" },
+    { type: "quote", text: "\u2026obtaining the outcome of your faith, the salvation of your souls.", source: "1 Petros 1:9" },
 
     "The Greek word <i>telos</i>, translated outcome or goal, means the end point, the final destination. Authentic faith leads automatically to the salvation of the soul. This is where faith is headed.",
 
@@ -92,7 +92,7 @@ BOOKLET_CONTENT["1-4"] = {
 
     { type: "heading", text: "Faith Is Itself a Work of Eloh\u00EEm" },
 
-    { type: "quote", text: "What must we do to be doing the works of Eloh\u00EEm? Yehoshoua answered them: This is the work of Eloh\u00EEm, that you believe in him whom he has sent.", source: "John 6:28\u201329" },
+    { type: "quote", text: "What must we do to be doing the works of Eloh\u00EEm? Yehoshoua answered them: This is the work of Eloh\u00EEm, that you believe in him whom he has sent.", source: "Yohanan 6:28\u201329" },
 
     "Faith is not something you manufacture. The greatest work Eloh\u00EEm produces in a person is faith itself. It comes from Him, through His Word, by His Spirit. Our part is to receive it \u2014 to open our hearts and not resist.",
 
@@ -102,9 +102,9 @@ BOOKLET_CONTENT["1-4"] = {
 
     "True faith, however, is never passive. It overflows into a changed life.",
 
-    { type: "quote", text: "So also faith by itself, if it does not have works, is dead.", source: "James 2:17" },
+    { type: "quote", text: "So also faith by itself, if it does not have works, is dead.", source: "Yaacov 2:17" },
 
-    "Works are not what earn salvation, they are the evidence of it. They are proof of genuine faith, just as fruit proves the life of a tree. Abraham\u2019s works proved his faith: \u201CYou see that faith was active along with his works, and faith was completed by his works\u201D (James 2:22).",
+    "Works are not what earn salvation, they are the evidence of it. They are proof of genuine faith, just as fruit proves the life of a tree. Abraham\u2019s works proved his faith: \u201CYou see that faith was active along with his works, and faith was completed by his works\u201D (Yaacov 2:22).",
 
     "Crucially, works are tied to love. Faith operates through love (Galatians 5:6). Without love, even extraordinary faith, faith that moves mountains, counts for nothing before Eloh\u00EEm (1 Corinthians 13:2). Love gives faith its power. And love is itself a fruit of the Holy Spirit at work in us.",
 
@@ -112,9 +112,9 @@ BOOKLET_CONTENT["1-4"] = {
 
     "Gold must be heated to over 1,000 degrees for impurities to be removed. In the same way, faith must pass through trials to be purified and proven genuine.",
 
-    { type: "quote", text: "\u2026though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith \u2014 more precious than gold that perishes though it is tested by fire \u2014 may be found to result in praise and glory and honor at the revelation of Yehoshoua Mashiah.", source: "1 Peter 1:6\u20137" },
+    { type: "quote", text: "\u2026though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith \u2014 more precious than gold that perishes though it is tested by fire \u2014 may be found to result in praise and glory and honor at the revelation of Yehoshoua Mashiah.", source: "1 Petros 1:6\u20137" },
 
-    "Christians whose faith has been tested and approved \u2014 <i>dokimos</i>, a Greek word used for money changers who only put coins of correct weight into circulation. A <i>dokimos</i> Christian is one whose faith has been proven genuine through the fire of trial. The results of tested faith are perseverance, praise, honor, and glory (James 1:3, 1 Peter 1:6\u20137).",
+    "Christians whose faith has been tested and approved \u2014 <i>dokimos</i>, a Greek word used for money changers who only put coins of correct weight into circulation. A <i>dokimos</i> Christian is one whose faith has been proven genuine through the fire of trial. The results of tested faith are perseverance, praise, honor, and glory (Yaacov 1:3, 1 Petros 1:6\u20137).",
 
     "For new believers: When hardship comes, and it will, it is not evidence that Eloh\u00EEm has abandoned you. It is the fire that proves your faith is real.",
 
@@ -124,13 +124,13 @@ BOOKLET_CONTENT["1-4"] = {
 
     { type: "heading", text: "1. Unbelief" },
 
-    "Unbelief (<i>apistia</i> in Greek) is not simply failing to believe, it is the deliberate refusal to be persuaded by the Word of Eloh\u00EEm. It is a sin (John 16:9). Its causes include a hardened heart, closed ears and eyes, and an unwillingness to accept what faith requires: repentance, surrender, suffering, and the rejection of sin.",
+    "Unbelief (<i>apistia</i> in Greek) is not simply failing to believe, it is the deliberate refusal to be persuaded by the Word of Eloh\u00EEm. It is a sin (Yohanan 16:9). Its causes include a hardened heart, closed ears and eyes, and an unwillingness to accept what faith requires: repentance, surrender, suffering, and the rejection of sin.",
 
-    "Its consequences are serious: fewer miracles, the Lord\u2019s rebuke, judgment, and ultimately the wrath of Eloh\u00EEm remaining on the one who refuses (John 3:36). The solution is repentance, honest acknowledgment before Eloh\u00EEm, followed by opening the heart again to His Word.",
+    "Its consequences are serious: fewer miracles, the Lord\u2019s rebuke, judgment, and ultimately the wrath of Eloh\u00EEm remaining on the one who refuses (Yohanan 3:36). The solution is repentance, honest acknowledgment before Eloh\u00EEm, followed by opening the heart again to His Word.",
 
     { type: "heading", text: "2. Doubt" },
 
-    "Doubt (<i>diakrino</i> in Greek) means disagreement, hesitation, uncertainty, the opposite of the conviction that faith produces. Its causes include trials, the long wait before a promise is fulfilled, ignorance, and fear. A person in doubt is like a wave of the sea, unstable and tossed in every direction (James 1:6).",
+    "Doubt (<i>diakrino</i> in Greek) means disagreement, hesitation, uncertainty, the opposite of the conviction that faith produces. Its causes include trials, the long wait before a promise is fulfilled, ignorance, and fear. A person in doubt is like a wave of the sea, unstable and tossed in every direction (Yaacov 1:6).",
 
     "Abraham was an example of the model of the opposite: \u201CHe did not waver in unbelief regarding the promise of Eloh\u00EEm, but was strengthened in his faith and gave glory to Eloh\u00EEm, being fully convinced that Eloh\u00EEm was able to do what he had promised\u201D (Romans 4:20\u201321). The solution to doubt is not willpower, it is returning to the Word, searching the Scriptures, and praying for clarity.",
 
@@ -148,9 +148,9 @@ BOOKLET_CONTENT["1-4"] = {
 
     "Bitterness \u2014 A deep resentment that grows from unhealed wounds, betrayal, or the cruelty of others. Its causes include lack of recognition, false accusations, suffering, and the refusal to forgive. Left unaddressed, bitterness progresses: first withdrawing from fellowship, then neglecting prayer and the Word, and finally leading toward apostasy. The solution is forgiveness, modeled on the Lord who was betrayed, slandered, and unrecognized, yet continued doing good.",
 
-    "Fear \u2014 Fear is rooted in sin, the first emotion Adam felt after his disobedience was fear (Genesis 3:10). A Christian walking closely with the Lord experiences less and less fear, because fear is incompatible with the assurance Eloh\u00EEm gives His children. The cause of fear is almost always fixing one\u2019s eyes on the threat, the giant, the storm, the wind, rather than on Eloh\u00EEm. The solution is to make the Lord your shepherd and to fear only Eloh\u00EEm, not people (Matthew 10:28).",
+    "Fear \u2014 Fear is rooted in sin, the first emotion Adam felt after his disobedience was fear (Bereshit 3:10). A Christian walking closely with the Lord experiences less and less fear, because fear is incompatible with the assurance Eloh\u00EEm gives His children. The cause of fear is almost always fixing one\u2019s eyes on the threat, the giant, the storm, the wind, rather than on Eloh\u00EEm. The solution is to make the Lord your shepherd and to fear only Eloh\u00EEm, not people (Mattithyah 10:28).",
 
-    "Anxiety \u2014 Anxiety concerns the necessities of life, food, clothing, money, and the future. Yehoshoua addressed this directly in Matthew 6:25\u201331: the nations chase after these things, but your heavenly Father knows you need them. The solution is not to suppress these needs but to bring them to Eloh\u00EEm in prayer with thanksgiving (Philippians 4:6), and to seek first His Kingdom.",
+    "Anxiety \u2014 Anxiety concerns the necessities of life, food, clothing, money, and the future. Yehoshoua addressed this directly in Mattithyah 6:25\u201331: the nations chase after these things, but your heavenly Father knows you need them. The solution is not to suppress these needs but to bring them to Eloh\u00EEm in prayer with thanksgiving (Philippians 4:6), and to seek first His Kingdom.",
 
     { type: "heading", text: "5. Riches and the Things of This World" },
 
@@ -201,5 +201,17 @@ BOOKLET_CONTENT["1-4"] = {
     "This is not a fight against people or circumstances. It is the fight to keep trusting Eloh\u00EEm when everything else tells you not to. It is the most important fight of your life \u2014 and it is one you do not fight alone. The Eloh\u00EEm who gave you faith will also sustain it."
   ],
   supportingVerses: [],
-  closing: ""
+  closing: "",
+  footnotes: {
+    "Mattithyah": "Matthew",
+    "Loukas": "Luke",
+    "Yohanan": "John",
+    "Yaacov": "James",
+    "Bereshit": "Genesis",
+    "Yehudah": "Jude",
+    "1 Petros": "1 Peter",
+    "Eloh\u00EEm": "God",
+    "Yehoshoua": "Jesus",
+    "Mashiah": "Christ"
+  }
 };

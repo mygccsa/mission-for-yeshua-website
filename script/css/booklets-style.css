@@ -760,6 +760,12 @@
 .ph { background: #F5FBFF; border-left: 3px solid #68BBE3; padding: .8rem 1rem; font-size: .8rem; color: #4a5d78; border-radius: 0 6px 6px 0; margin: 1rem 0; line-height: 1.6; font-style: italic; }
 .ps { text-align: center; color: #68BBE3; font-family: 'DM Serif Display', Georgia, serif; font-size: .82rem; margin-top: 1.5rem; opacity: .5; }
 
+/* BYMEN Name Tooltips */
+.bn { color: inherit; cursor: help; position: relative; border-bottom: 1px dotted rgba(5, 92, 157, .35); }
+.bn::after { content: attr(data-en); position: absolute; bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%); background: #003060; color: #fff; padding: .2rem .55rem; border-radius: 4px; font-size: .7rem; font-family: 'Source Sans 3', -apple-system, sans-serif; font-style: normal; font-weight: 500; white-space: nowrap; opacity: 0; visibility: hidden; transition: opacity .15s, visibility .15s; pointer-events: none; z-index: 10; box-shadow: 0 2px 8px rgba(0,0,0,.15); line-height: 1.3; }
+.bn::before { content: ''; position: absolute; bottom: calc(100% + 0px); left: 50%; transform: translateX(-50%); border: 4px solid transparent; border-top-color: #003060; opacity: 0; visibility: hidden; transition: opacity .15s, visibility .15s; pointer-events: none; z-index: 10; }
+.bn:hover::after, .bn:hover::before, .bn.show::after, .bn.show::before { opacity: 1; visibility: visible; }
+
 /* ===== Reader Bottom Bar ===== */
 .rd-bot {
     position: absolute;
@@ -1049,6 +1055,7 @@
     .sv { font-size: .9rem; padding: .8rem .6rem; }
     .sv span { font-size: .7rem; }
     .cl { font-size: .9rem; padding: 1.4rem 1.2rem; }
+    .bn::after { font-size: .72rem; }
     .co { font-size: .88rem; line-height: 1.7; padding: 1.2rem 1.2rem 1.2rem 3.2rem; }
     .sh { font-size: 1.1rem; }
 
@@ -1330,6 +1337,11 @@ body.dark-mode .ph {
 body.dark-mode .ps {
     color: #68BBE3;
 }
+
+/* BYMEN Name Tooltips */
+body.dark-mode .bn { border-bottom-color: rgba(125, 211, 252, .3); }
+body.dark-mode .bn::after { background: #1e293b; border: 1px solid rgba(104,187,227,.2); }
+body.dark-mode .bn::before { border-top-color: #1e293b; }
 
 /* Image block */
 body.dark-mode .ib {

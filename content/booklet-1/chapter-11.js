@@ -12,9 +12,9 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "1. The Importance of the Hands Under the Old Covenant" },
 
-    "Under the Old Covenant, the laying on of hands was a practice of profound symbolic and spiritual importance, serving as a visible act of identification, transmission, and consecration. In the sacrificial system, worshippers laid their hands on the head of the animal to signify the transfer of their sins before it was offered to Elohim (God): \u201CAnd he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him\u201D (Leviticus 1:4). This act demonstrated substitution\u2014the animal bore the guilt of the worshipper and was sacrificed in their place.",
+    "Under the Old Covenant, the laying on of hands was a practice of profound symbolic and spiritual importance, serving as a visible act of identification, transmission, and consecration. In the sacrificial system, worshippers laid their hands on the head of the animal to signify the transfer of their sins before it was offered to Elohim (God): \u201CAnd he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him\u201D (Vayikra 1:4). This act demonstrated substitution\u2014the animal bore the guilt of the worshipper and was sacrificed in their place.",
 
-    "The practice also carried the meaning of blessing, as seen when Jacob deliberately crossed his hands to bless Ephraim and Manasseh: \u201CIsrael stretched out his right hand and laid it on Ephraim\u2019s head\u2026 and his left hand upon Manasseh\u2019s head\u2026 and he blessed Joseph, and said, Elohim, before whom my father\u2019s Abraham and Isaac did walk\u2026 bless the lads\u201D (Genesis 48:14\u201315). Beyond sacrifice and blessing, laying on of hands was central in commissioning leaders. Moses, under Elohim\u2019s command, laid his hands on Joshua to appoint him as his successor: \u201CAnd he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses\u201D (Numbers 27:18\u201323).",
+    "The practice also carried the meaning of blessing, as seen when Jacob deliberately crossed his hands to bless Ephraim and Manasseh: \u201CIsrael stretched out his right hand and laid it on Ephraim\u2019s head\u2026 and his left hand upon Manasseh\u2019s head\u2026 and he blessed Joseph, and said, Elohim, before whom my father\u2019s Abraham and Isaac did walk\u2026 bless the lads\u201D (Bereshit 48:14\u201315). Beyond sacrifice and blessing, laying on of hands was central in commissioning leaders. Moses, under Elohim\u2019s command, laid his hands on Joshua to appoint him as his successor: \u201CAnd he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses\u201D (Numbers 27:18\u201323).",
 
     "In each case, the act was performed with solemnity, visibly connecting the worshipper, the community, and Elohim\u2019s work. Its importance lies in the fact that it represented the transfer of sin, the impartation of blessing, and the consecration of authority. This Old Covenant practice prepared the way for its fuller meaning in the New Covenant, where laying on of hands became a means of imparting the Holy Spirit, healing, and ordination. In essence, it was an Elohim-given symbol of transference and consecration, performed through physical touch to demonstrate spiritual realities.",
 
@@ -27,9 +27,9 @@ BOOKLET_CONTENT["1-11"] = {
     "The Old Covenant sacrifices were shadows of Mashiah\u2019s ultimate offering. When worshippers laid hands on bulls, lambs, or pigeons, they symbolically transferred guilt to the animal. Each of these animals foreshadowed aspects of Mashiah\u2019s mission:",
 
     { type: "list", items: [
-      "The Bull \u2013 representing strength and service, points to Mashiah who came \u201Cnot to be served but to serve, and to give His life as a ransom for many\u201D (Matthew 20:28). His sacrifice was not passive but active service, fulfilling the image of the bull offered in strength.",
-      "The Lamb \u2013 symbolizing innocence and sacrifice, fulfilled in Yehoshua, the Lamb of Elohim, who silently bore accusation (\u201CBut Yehoshua remained silent\u201D \u2013 Matthew 26:63) and gave His life for the sins of the world. His purity and willingness to suffer made Him the perfect substitute.",
-      "The Dove/Pigeon \u2013 representing purity and gentleness, connects to Mashiah\u2019s teaching: \u201CBe wise as serpents and harmless as doves\u201D (Matthew 10:16). The dove also symbolized the Holy Spirit descending upon Him at baptism, marking Him as the bringer of peace and purity."
+      "The Bull \u2013 representing strength and service, points to Mashiah who came \u201Cnot to be served but to serve, and to give His life as a ransom for many\u201D (Mattithyah 20:28). His sacrifice was not passive but active service, fulfilling the image of the bull offered in strength.",
+      "The Lamb \u2013 symbolizing innocence and sacrifice, fulfilled in Yehoshua, the Lamb of Elohim, who silently bore accusation (\u201CBut Yehoshua remained silent\u201D \u2013 Mattithyah 26:63) and gave His life for the sins of the world. His purity and willingness to suffer made Him the perfect substitute.",
+      "The Dove/Pigeon \u2013 representing purity and gentleness, connects to Mashiah\u2019s teaching: \u201CBe wise as serpents and harmless as doves\u201D (Mattithyah 10:16). The dove also symbolized the Holy Spirit descending upon Him at baptism, marking Him as the bringer of peace and purity."
     ] },
 
     "Thus, the laying on of hands under the Old Covenant was a shadow pointing to Mashiah\u2019s sacrifice, while under the New Covenant it became a channel of His Spirit and authority. Through this act, believers are blessed, healed, commissioned, and empowered, demonstrating the living relationship between Yehoshua and His people.",
@@ -40,7 +40,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "3A. The Authority Linked to a Particular Function \u2014 Deacons" },
 
-    "To complement the work of the servants of the Word of Elohim in the assembly, the apostles prayed for the deacons and laid their hands upon them. It is imperative to lay hands on deacons for the service they are entering, as this act sets them apart for their ministry. Among other responsibilities, they are entrusted with the management of finances. If they are not anointed through prayer and the laying on of hands, the work of finance may dry up, and they risk being influenced by the spirit of betrayal, as seen in Judas Iscariot (Matthew 26:14\u201316). Without this consecration, they may lose the Spirit of service.",
+    "To complement the work of the servants of the Word of Elohim in the assembly, the apostles prayed for the deacons and laid their hands upon them. It is imperative to lay hands on deacons for the service they are entering, as this act sets them apart for their ministry. Among other responsibilities, they are entrusted with the management of finances. If they are not anointed through prayer and the laying on of hands, the work of finance may dry up, and they risk being influenced by the spirit of betrayal, as seen in Judas Iscariot (Mattithyah 26:14\u201316). Without this consecration, they may lose the Spirit of service.",
 
     "All servants of Elohim must receive the laying on of hands, for the simple reason that we do not serve by our own strength but by the empowerment of the Holy Spirit. As the apostles demonstrated, \u201CThey presented these men to the apostles, who prayed and laid their hands on them\u201D (Acts 6:6). This practice ensures that ministry is carried out under divine authority and blessing. The laying on of hands must always be done to transmit life, not death, within the assembly, for it is a sacred act of impartation.",
 
@@ -70,7 +70,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "This demonstrates that gifts can be imparted through the laying on of hands by assembly leaders, under the guidance of the Holy Spirit.",
 
-    "The Old Testament also illustrates this principle. Deuteronomy 34:9 records: \u201CAnd Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him and did as the LORD commanded Moses.\u201D Here, Moses transmitted wisdom and authority to Joshua through the laying on of hands, showing that Elohim works through chosen men to equip others for service.",
+    "The Old Testament also illustrates this principle. Devarim 34:9 records: \u201CAnd Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him and did as the LORD commanded Moses.\u201D Here, Moses transmitted wisdom and authority to Joshua through the laying on of hands, showing that Elohim works through chosen men to equip others for service.",
 
     "In the New Testament, this continues. Acts 19:1\u20136 recounts Paul\u2019s ministry in Ephesus: \u201CAnd when Paul had laid his hands upon them, the Holy Ghost came on them; and they spoke with tongues, and prophesied.\u201D Through Paul\u2019s hands, Mashiah imparted the Holy Spirit and spiritual gifts to the disciples.",
 
@@ -80,7 +80,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "list", items: [
       "Elohim Himself is the source of all gifts \u2014 they come directly from the Holy Spirit according to His will (1 Corinthians 12:11; Ephesians 4:7\u20138).",
-      "Mashiah distributes gifts through men \u2014 apostles, prophets, and leaders serve as channels, laying hands and imparting grace to others (Romans 1:11; 1 Timothy 4:14; Deuteronomy 34:9; Acts 19:1\u20136)."
+      "Mashiah distributes gifts through men \u2014 apostles, prophets, and leaders serve as channels, laying hands and imparting grace to others (Romans 1:11; 1 Timothy 4:14; Devarim 34:9; Acts 19:1\u20136)."
     ] },
 
     "This shows the harmony between divine sovereignty and human participation. Just as Moses laid hands on Joshua, and Paul imparted gifts to believers, so today Mashiah continues to use His servants to transmit spiritual empowerment. Spiritual gifts are both divine in origin and practical in distribution. They are given to establish believers, empower service, and glorify Mashiah, who is both the giver and distributor of every spiritual gift.",
@@ -91,7 +91,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "In Mark 10:13\u201316, Scripture records: \u201CAnd they brought young children to Him, that He should touch them: and His disciples rebuked those that brought them. But when Yehoshua saw it, He was much displeased, and said unto them, Suffer the little children to come unto Me, and forbid them not: for of such is the kingdom of Elohim\u2026 And He took them up in His arms, put His hands upon them, and blessed them.\u201D Here, Yehoshua laid His hands on the children, imparting divine blessing. His touch was not casual; it was a transmission of Elohim\u2019s favour and affirmation of their place in the kingdom.",
 
-    "In the Old Testament, Genesis 48:14 records Jacob blessing Ephraim and Manasseh: \u201CAnd Israel stretched out his right hand, and laid it upon Ephraim\u2019s head, who was the younger, and his left hand upon Manasseh\u2019s head, guiding his hands wittingly; for Manasseh was the firstborn.\u201D Through this act, Jacob transmitted prophetic blessings that shaped the future of these boys, declaring that they would become great nations. Indeed, history confirms that both tribes became powerful and influential in Israel.",
+    "In the Old Testament, Bereshit 48:14 records Jacob blessing Ephraim and Manasseh: \u201CAnd Israel stretched out his right hand, and laid it upon Ephraim\u2019s head, who was the younger, and his left hand upon Manasseh\u2019s head, guiding his hands wittingly; for Manasseh was the firstborn.\u201D Through this act, Jacob transmitted prophetic blessings that shaped the future of these boys, declaring that they would become great nations. Indeed, history confirms that both tribes became powerful and influential in Israel.",
 
     "Just as Yehoshua and Jacob used their hands to bless, common Christians today can also use their hands to bless their family members. Parents can lay hands on their children and proclaim words of blessing such as, \u201CBe intelligent, fear the Lord, walk in wisdom, and prosper in all you do.\u201D This act is not magical but a faith-filled declaration that aligns with Elohim\u2019s promises. The laying on of hands should never be used to hit or communicate violence; instead, it must be a channel of life, encouragement, and spiritual impartation.",
 
@@ -101,7 +101,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "Wisdom in Scripture is more than knowledge; it is the ability to make righteous judgments, accurate decisions, and discerning actions. The Bible shows that wisdom can be imparted through the laying on of hands, as Elohim uses His servants to transmit spiritual qualities to others.",
 
-    { type: "quote", text: "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him and did as the LORD commanded Moses.", source: "Deuteronomy 34:9" },
+    { type: "quote", text: "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him and did as the LORD commanded Moses.", source: "Devarim 34:9" },
 
     "Here, Joshua received wisdom through Moses\u2019 hands. This wisdom enabled him to lead Israel with discernment, courage, and obedience. It was not human skill alone but a divine impartation that equipped him to make righteous judgments and guide the nation faithfully.",
 
@@ -117,11 +117,11 @@ BOOKLET_CONTENT["1-11"] = {
 
     "The Bible teaches that healing is not only possible but is often transmitted through the laying on of hands. This practice, rooted in faith, demonstrates the partnership between human obedience and divine power. When believers lay hands on the sick, they act in faith, while the Lord performs the healing.",
 
-    { type: "quote", text: "And these signs shall follow them that believe; In My name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.", source: "Mark 16:17\u201318" },
+    { type: "quote", text: "And these signs shall follow them that believe; In My name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.", source: "Markos 16:17\u201318" },
 
     "This promise shows that healing through the laying on of hands is a gift given to all believers, not just apostles or prophets. The believer\u2019s part is to touch with faith; the Lord\u2019s part is to heal.",
 
-    "The ministry of Yehoshua confirms this truth. In Luke 4:37\u201340, Scripture says: \u201CAnd the fame of Him went out into every place of the country round about\u2026 And He laid His hands on every one of them and healed them.\u201D Yehoshua laid His hands on the sick, and they were healed. His example shows that healing flows through touch empowered by faith.",
+    "The ministry of Yehoshua confirms this truth. In Loukas 4:37\u201340, Scripture says: \u201CAnd the fame of Him went out into every place of the country round about\u2026 And He laid His hands on every one of them and healed them.\u201D Yehoshua laid His hands on the sick, and they were healed. His example shows that healing flows through touch empowered by faith.",
 
     "Just as Yehoshua healed through His hands, believers today are called to exercise this gift. Your hands are like a \u201Cwalking hospital\u201D\u2014instruments through which Elohim\u2019s healing power flows. Before rushing to hospitals or medications, Christians should remember that the first response can be prayer and the laying on of hands. This does not mean rejecting medical help, but it emphasizes that faith must come first. Unlike medicine, the healing that flows through faith has no side effects, because it comes directly from the Lord.",
 
@@ -145,7 +145,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "Transmission of Sin and Burden" },
 
-    "In the Old Testament, the laying on of hands symbolized the transfer of sin. Leviticus 16:20\u201322 says: \u201CAnd when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat: and Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel\u2026 and the goat shall bear upon him all their iniquities unto a land not inhabited.\u201D This shows that sin could be transmitted through the laying on of hands. The principle remains: what is imparted can be either life or death, blessing or curse.",
+    "In the Old Testament, the laying on of hands symbolized the transfer of sin. Vayikra 16:20\u201322 says: \u201CAnd when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat: and Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel\u2026 and the goat shall bear upon him all their iniquities unto a land not inhabited.\u201D This shows that sin could be transmitted through the laying on of hands. The principle remains: what is imparted can be either life or death, blessing or curse.",
 
     { type: "heading", text: "New Covenant Warning" },
 
@@ -158,11 +158,11 @@ BOOKLET_CONTENT["1-11"] = {
     { type: "list", items: [
       "Receiving Demons or Curses: By laying hands without discernment, one can receive spiritual oppression or curses carried by another.",
       "Participating in Sin: For example, if someone \u201Cblesses\u201D a gay marriage, a scammer, or any ungodly act, they are endorsing sin and risk being defiled.",
-      "Foreign Fire: Just as Nadab and Abihu offered strange fire before the Lord (Leviticus 10:1\u20132), laying hands without Elohim\u2019s direction can bring judgment instead of blessing.",
+      "Foreign Fire: Just as Nadab and Abihu offered strange fire before the Lord (Vayikra 10:1\u20132), laying hands without Elohim\u2019s direction can bring judgment instead of blessing.",
       "Haste in Ordination: Laying hands on an elder or leader without Elohim\u2019s confirmation can lead to disaster. If the Lord has not spoken, do not rush into it."
     ] },
 
-    "The laying on of hands is powerful, but it must be exercised with discernment and humility. Leviticus 16:20\u201322 shows that sin can be transmitted, and 1 Timothy 5:22 warns that we can become partakers of another\u2019s sin. Therefore, believers must not be quick to lay hands without conviction from the Lord. The act should always transmit life, blessing, and the Spirit of Elohim\u2014not curses, demons, or sin. In all cases, discernment, prayer, and obedience are essential to ensure that the laying on of hands remains a holy channel of Elohim\u2019s grace.",
+    "The laying on of hands is powerful, but it must be exercised with discernment and humility. Vayikra 16:20\u201322 shows that sin can be transmitted, and 1 Timothy 5:22 warns that we can become partakers of another\u2019s sin. Therefore, believers must not be quick to lay hands without conviction from the Lord. The act should always transmit life, blessing, and the Spirit of Elohim\u2014not curses, demons, or sin. In all cases, discernment, prayer, and obedience are essential to ensure that the laying on of hands remains a holy channel of Elohim\u2019s grace.",
 
     { type: "heading", text: "5. Who Has the Right to Lay Hands?" },
 
@@ -193,7 +193,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "Not an Obligation" },
 
-    "The Bible shows clearly that we are not obliged to lay hands on the people we pray for. Healing and miracles can happen simply through prayer spoken with authority in the name of Yehoshua. In Matthew 9:6, Yehoshua said: \u201CBut that ye may know that the Son of man hath power on earth to forgive sins, (then saith He to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.\u201D Here, Yehoshua healed by His word alone, without touching the man.",
+    "The Bible shows clearly that we are not obliged to lay hands on the people we pray for. Healing and miracles can happen simply through prayer spoken with authority in the name of Yehoshua. In Mattithyah 9:6, Yehoshua said: \u201CBut that ye may know that the Son of man hath power on earth to forgive sins, (then saith He to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.\u201D Here, Yehoshua healed by His word alone, without touching the man.",
 
     "Likewise, Peter healed the lame man at the temple gate by speaking with authority: \u201CThen Peter said, Silver and gold have I none; but such as I have given I thee: In the name of Yehoshua Mashiah of Nazareth rise up and walk\u201D (Acts 3:6). Paul also healed a crippled man in Lystra simply by declaring the word: \u201CThe same heard Paul speak who steadfastly beholding him, and perceiving that he had faith to be healed, said with a loud voice, Stand upright on thy feet. And he leaped and walked\u201D (Acts 14:9\u201310). These examples show that prayer with faith and authority is sufficient for healing.",
 
@@ -211,11 +211,11 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "Discernment Is Required" },
 
-    "This is a biblical practice, but not everyone who calls himself a \u201Cman of Elohim\u201D should be allowed to lay hands on you. Yehoshua warned in Matthew 7:15: \u201CBeware of false prophets, which come to you in sheep\u2019s clothing, but inwardly they are ravening wolves.\u201D Witchcraft or deception is not written on people\u2019s foreheads, meaning you cannot always see the true nature of someone by outward appearance. Just as it is not because someone calls himself \u201Cpresident\u201D that he truly is the president of a republic, so it is not because someone claims to be a servant of Elohim that he truly carries His Spirit.",
+    "This is a biblical practice, but not everyone who calls himself a \u201Cman of Elohim\u201D should be allowed to lay hands on you. Yehoshua warned in Mattithyah 7:15: \u201CBeware of false prophets, which come to you in sheep\u2019s clothing, but inwardly they are ravening wolves.\u201D Witchcraft or deception is not written on people\u2019s foreheads, meaning you cannot always see the true nature of someone by outward appearance. Just as it is not because someone calls himself \u201Cpresident\u201D that he truly is the president of a republic, so it is not because someone claims to be a servant of Elohim that he truly carries His Spirit.",
 
     { type: "heading", text: "The Danger of False Signs" },
 
-    { type: "quote", text: "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.", source: "Matthew 24:24" },
+    { type: "quote", text: "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.", source: "Mattithyah 24:24" },
 
     "This shows that even those who perform miracles may not be genuine. Therefore, before allowing someone to lay hands on you, it is important to know their morality, their life, and their walk with Elohim. More importantly, it is better to be convinced by the Holy Spirit rather than relying only on appearances or titles.",
 
@@ -223,7 +223,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "The Holy Spirit is the ultimate guide in this matter. He will confirm whether someone is truly sent by Elohim or not. Without His confirmation, laying on of hands can become dangerous, as it may transmit not blessing but confusion, sin, or even spiritual oppression. This is why discernment and sanctification are essential.",
 
-    "Not all men of Elohim should lay hands on you. Matthew 7:15 warns of false prophets, and Matthew 24:24 shows that even signs and wonders can be deceptive. The laying on of hands involves giving and receiving, so discernment is crucial. It is better to wait for the conviction of the Holy Spirit before submitting to such an act. In this way, believers protect themselves from foreign fire and ensure that what is imparted is truly from Elohim.",
+    "Not all men of Elohim should lay hands on you. Mattithyah 7:15 warns of false prophets, and Mattithyah 24:24 shows that even signs and wonders can be deceptive. The laying on of hands involves giving and receiving, so discernment is crucial. It is better to wait for the conviction of the Holy Spirit before submitting to such an act. In this way, believers protect themselves from foreign fire and ensure that what is imparted is truly from Elohim.",
 
     { type: "heading", text: "8. Conclusion on the Laying on of Hands" },
 
@@ -242,5 +242,13 @@ BOOKLET_CONTENT["1-11"] = {
     "The laying on of hands is a sacred practice. It requires purity, discernment, and sanctification. Keep your hands holy, and they will remain powerful weapons of blessing, transmitting the life of Mashiah wherever you go."
   ],
   supportingVerses: [],
-  closing: ""
+  closing: "",
+  footnotes: {
+    "Mattithyah": "Matthew",
+    "Loukas": "Luke",
+    "Markos": "Mark",
+    "Bereshit": "Genesis",
+    "Devarim": "Deuteronomy",
+    "Vayikra": "Leviticus"
+  }
 };

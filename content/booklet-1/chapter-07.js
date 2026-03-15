@@ -28,17 +28,17 @@ BOOKLET_CONTENT["1-7"] = {
 
     { type: "quote", text: "And while they had their eyes fixed on the sky as he went up, behold, two men stood up by them in white clothing and also said: Men of Galilee, why are you standing here looking up the sky? This same Yehoshua who was taken up far from you to heaven, will so come in like manner as you saw him go to heaven.", source: "Acts 1:10-11" },
 
-    "The disciples of Yehoshua are hoping for the return of Yehoshua. We are currently living in the times of the nations (Luke 21:24) and we believe that there will be a time according to the calendar of Elohim where He will come physically on earth and intervene in the affairs of men. Titus 2:13 \u201cexpecting the blessed hope and the appearance of the glory of the great Elohim and Savior, our Yehoshua Mashiah.\u201d Because no one knows the day (Matthew 24:36), the disciples of Yehoshua need to prepare themselves and be ready for the day of the Lord will come as a thief in the night (2 Peter 3:10).",
+    "The disciples of Yehoshua are hoping for the return of Yehoshua. We are currently living in the times of the nations (Loukas 21:24) and we believe that there will be a time according to the calendar of Elohim where He will come physically on earth and intervene in the affairs of men. Titus 2:13 \u201cexpecting the blessed hope and the appearance of the glory of the great Elohim and Savior, our Yehoshua Mashiah.\u201d Because no one knows the day (Mattithyah 24:36), the disciples of Yehoshua need to prepare themselves and be ready for the day of the Lord will come as a thief in the night (2 Petros 3:10).",
 
     { type: "heading", text: "The Hope in Elohim and Yehoshua" },
 
-    { type: "quote", text: "And through him you believe in Elohim, who raised him up from the dead, and gave him glory, so that your faith and hope may be in Elohim.", source: "1 Peter 1:21" },
+    { type: "quote", text: "And through him you believe in Elohim, who raised him up from the dead, and gave him glory, so that your faith and hope may be in Elohim.", source: "1 Petros 1:21" },
 
     "Our Hope should be in Elohim Yehoshua and not on men.",
 
     { type: "quote", text: "For, this is why we both work hard and are insulted, because we hope in the living Elohim, who is the Savior of all humans, especially of the faithful.", source: "1 Timothy 4:10" },
 
-    "Many people put their hope in their monies, or government, or pastors. Without any doubt, they end up wounded. Yehoshua Mashiah is the only One who remains Faithful and True. In John 5:45, Yehoshua said: \u201cDo not think that I will accuse you before the Father. He that accuses you, is Moshe (Moses), in whom you hope.\u201d The children of Israel hoped in Moshe, a man. We understand why in Exodus 24 verse 15, when Moshe went up on the mountain and be with Elohim for 40 days and 40 nights, they make for themselves an elohim in the form of the golden calf. Nowadays, if one removes the Pastor of many assemblies, the persons gathering there will be lost. Many do not have a deep intimacy with The Lord; Many do not have a life of consecration with The Lord Yehoshua. Many persons depend on men. They are looking for men to bless their children, they are looking for men to pray for their families, they are looking for men to pray for their businesses, they are looking for men to guide them. We are in a generation where many disciples do not know their identity in The Lord, and many are slaves of men. 1 Corinthians 7:23 \u201cYou were bought with a price, do not become slaves of humans.\u201d",
+    "Many people put their hope in their monies, or government, or pastors. Without any doubt, they end up wounded. Yehoshua Mashiah is the only One who remains Faithful and True. In Yohanan 5:45, Yehoshua said: \u201cDo not think that I will accuse you before the Father. He that accuses you, is Moshe (Moses), in whom you hope.\u201d The children of Israel hoped in Moshe, a man. We understand why in Shemot 24 verse 15, when Moshe went up on the mountain and be with Elohim for 40 days and 40 nights, they make for themselves an elohim in the form of the golden calf. Nowadays, if one removes the Pastor of many assemblies, the persons gathering there will be lost. Many do not have a deep intimacy with The Lord; Many do not have a life of consecration with The Lord Yehoshua. Many persons depend on men. They are looking for men to bless their children, they are looking for men to pray for their families, they are looking for men to pray for their businesses, they are looking for men to guide them. We are in a generation where many disciples do not know their identity in The Lord, and many are slaves of men. 1 Corinthians 7:23 \u201cYou were bought with a price, do not become slaves of humans.\u201d",
 
     "Others are slave of wealth. 1 Timothy 6:17 \u201cCommand the rich of this present age, not to be proud, and not to hope in uncertain riches, but in Elohim, the Living One, who gives us all things abundantly for enjoyment.\u201d Many people put their hope in physical materials. That is why in these last days, many preach a prosperity gospel. They are not seeking the Heavenly things, but the earthly things such as cars, houses, visas, jobs etc\u2026 One will say: \u201cCome to Yehoshua, and you will have a visa\u201d, while the pagans of this world do not pray, and simply apply for the visas which are granted. Another one will say: \u201cCome to Yehoshua, and you will have a car\u201d, while the founder of the car brand is not a Christian. We also heard: \u201cCome to Yehoshua, and you will get married and have children\u201d, while the pagans of this world also get married, and have children. Many persons do not longer preach The Gospel from above, but an earthly gospel, a gospel of the belly.",
 
@@ -54,12 +54,25 @@ BOOKLET_CONTENT["1-7"] = {
 
     { type: "quote", text: "It is for this reason also that I suffer these things, but I am not ashamed of them, for I know in whom I have believed, and that which I am persuaded that he is mighty to keep my deposit until that day.", source: "2 Timothy 1:12" },
 
-    { type: "quote", text: "And such as do wickedly against the covenant will he corrupt by flatteries: but the people that do know their Elohim will be strong, and do exploits.", source: "Daniel 11:32" },
+    { type: "quote", text: "And such as do wickedly against the covenant will he corrupt by flatteries: but the people that do know their Elohim will be strong, and do exploits.", source: "Daniyel 11:32" },
 
     "The disciples of Yehoshua Mashiah should also understand that his/her hope in The True Elohim will bring trials, tribulations or persecutions.",
 
     { type: "quote", text: "And now I stand being judged for the hope of the promise having been made by Elohim to our fathers, to which our twelve tribes, earnestly serving day and night, hope to come. For which hope\u2019s sake, king Agrippa, I am accused of the Jews.", source: "Acts 26:6-7" },
   ],
   supportingVerses: [],
-  closing: ""
+  closing: "",
+  footnotes: {
+    "Mattithyah": "Matthew",
+    "Loukas": "Luke",
+    "Yohanan": "John",
+    "Shemot": "Exodus",
+    "Daniyel": "Daniel",
+    "1 Petros": "1 Peter",
+    "2 Petros": "2 Peter",
+    "Yaacov": "James",
+    "Paulos": "Paul",
+    "Kephas": "Peter",
+    "Moshe": "Moses"
+  }
 };
