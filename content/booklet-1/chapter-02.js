@@ -181,14 +181,14 @@ BOOKLET_CONTENT["1-2"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Devarim": "Deuteronomy",
-    "Bereshit": "Genesis",
-    "Yesha'yah": "Isaiah",
+    "Devarim": "Deuteronomy, meaning 'words' — from the opening phrase 'these are the words'",
+    "Bereshit": "Genesis, meaning 'in the beginning' — the first word of the book in Hebrew",
+    "Yesha'yah": "Isaiah, from Yasha (salvation) and Yah (YHWH): 'YHWH is salvation'",
     "Markos": "Mark",
-    "Mattithyah": "Matthew",
-    "Shemot": "Exodus",
-    "Tehilim": "Psalms",
-    "Yohanan": "John",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
+    "Shemot": "Exodus, meaning 'names' — from the opening phrase 'these are the names'",
+    "Tehilim": "Psalms, meaning 'praises' — from the Hebrew Tehillah (praise)",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
     "Loukas": "Luke"
   }
 };

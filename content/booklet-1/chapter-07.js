@@ -63,16 +63,17 @@ BOOKLET_CONTENT["1-7"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "Yohanan": "John",
-    "Shemot": "Exodus",
-    "Daniyel": "Daniel",
-    "1 Petros": "1 Peter",
-    "2 Petros": "2 Peter",
-    "Yaacov": "James",
-    "Paulos": "Paul",
-    "Kephas": "Peter",
-    "Moshe": "Moses"
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Shemot": "Exodus, meaning 'names' — from the opening phrase 'these are the names'",
+    "Daniyel": "Daniel, from Dani (my judge) and El (God): 'Elohim is my judge'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
+    "2 Petros": "2 Peter, from Petros (Greek) meaning 'rock'",
+    "Yaacov": "James, from Yaaqov (supplanter): 'he grasps the heel'",
+    "Paulos": "Paul, from the Latin Paulus meaning 'small' or 'humble'",
+    "Kephas": "Peter, from the Aramaic Kepha meaning 'rock'",
+    "Moshe": "Moses, from the Hebrew Mashah meaning 'drawn out' — because he was drawn out of water",
+    "Galil": "Galilee, from Galil meaning 'district' or 'circle'"
   }
 };

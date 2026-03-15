@@ -244,11 +244,12 @@ BOOKLET_CONTENT["1-11"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
     "Markos": "Mark",
-    "Bereshit": "Genesis",
-    "Devarim": "Deuteronomy",
-    "Vayikra": "Leviticus"
+    "Bereshit": "Genesis, meaning 'in the beginning' — the first word of the book in Hebrew",
+    "Devarim": "Deuteronomy, meaning 'words' — from the opening phrase 'these are the words'",
+    "Vayikra": "Leviticus, meaning 'and He called' — the first word of the book in Hebrew",
+    "Nazaret": "Nazareth, possibly from Netser (branch): 'branch'"
   }
 };

@@ -29,6 +29,6 @@ BOOKLET_CONTENT["1-6"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Paulos": "Paul"
+    "Paulos": "Paul, from the Latin Paulus meaning 'small' or 'humble'"
   }
 };

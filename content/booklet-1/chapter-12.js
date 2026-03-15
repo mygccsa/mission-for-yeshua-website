@@ -30,8 +30,8 @@ BOOKLET_CONTENT["1-12"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
-    "Yohanan": "John",
-    "Paulos": "Paul"
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Paulos": "Paul, from the Latin Paulus meaning 'small' or 'humble'"
   }
 };

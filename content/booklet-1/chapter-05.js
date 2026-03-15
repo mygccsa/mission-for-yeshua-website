@@ -110,15 +110,16 @@ BOOKLET_CONTENT["1-5"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Markos": "Mark",
-    "Yohanan": "John",
-    "1 Petros": "1 Peter",
-    "Moshe": "Moses",
-    "Petros": "Peter",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
+    "Moshe": "Moses, from the Hebrew Mashah meaning 'drawn out' — because he was drawn out of water",
+    "Petros": "Peter, from the Greek Petros meaning 'rock'",
     "Kornelios": "Cornelius",
-    "Stephanos": "Stephen",
-    "Yarden": "Jordan",
-    "Yerushalaim": "Jerusalem"
+    "Stephanos": "Stephen, from the Greek Stephanos meaning 'crown'",
+    "Yarden": "Jordan, from Yarad (to descend): 'the descender'",
+    "Yerushalaim": "Jerusalem, from Yeru (foundation) and Shalom (peace): 'city of peace'",
+    "Galil": "Galilee, from Galil meaning 'district' or 'circle'"
   }
 };

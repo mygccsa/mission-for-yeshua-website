@@ -91,18 +91,19 @@ BOOKLET_CONTENT["1-13"] = {
   supportingVerses: [],
   closing: "Looking at all the above promises, surely, we cannot but persevere knowing that one day we will receive the full redemption of our body, spirit and souls. Let us not therefore succumb to the mockeries of others or be shaken by what is going on around the world, but in watchfulness, in prayers, let us always cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of Elohim. Maranatha!",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "Yohanan": "John",
-    "Bereshit": "Genesis",
-    "Devarim": "Deuteronomy",
-    "Vayikra": "Leviticus",
-    "Tehilim": "Psalms",
-    "Yesha'yah": "Isaiah",
-    "Daniyel": "Daniel",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Bereshit": "Genesis, meaning 'in the beginning' — the first word of the book in Hebrew",
+    "Devarim": "Deuteronomy, meaning 'words' — from the opening phrase 'these are the words'",
+    "Vayikra": "Leviticus, meaning 'and He called' — the first word of the book in Hebrew",
+    "Tehilim": "Psalms, meaning 'praises' — from the Hebrew Tehillah (praise)",
+    "Yesha'yah": "Isaiah, from Yasha (salvation) and Yah (YHWH): 'YHWH is salvation'",
+    "Daniyel": "Daniel, from Dani (my judge) and El (God): 'Elohim is my judge'",
     "Shoftim": "Judges",
-    "Yaacov": "James",
-    "1 Petros": "1 Peter",
-    "2 Petros": "2 Peter"
+    "Yaacov": "James, from Yaaqov (supplanter): 'he grasps the heel'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
+    "2 Petros": "2 Peter, from Petros (Greek) meaning 'rock'",
+    "Yerushalaim": "Jerusalem, from Yeru (foundation) and Shalom (peace): 'city of peace'"
   }
 };

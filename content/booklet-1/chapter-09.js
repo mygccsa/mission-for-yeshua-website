@@ -119,9 +119,9 @@ BOOKLET_CONTENT["1-9"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "1 Petros": "1 Peter",
-    "2 Petros": "2 Peter"
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
+    "2 Petros": "2 Peter, from Petros (Greek) meaning 'rock'"
   }
 };

@@ -149,17 +149,17 @@ BOOKLET_CONTENT["1-10"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "Yohanan": "John",
-    "1 Yohanan": "1 John",
-    "Tehilim": "Psalms",
-    "Mishlei": "Proverbs",
-    "Yesha'yah": "Isaiah",
-    "Vayikra": "Leviticus",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "1 Yohanan": "1 John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Tehilim": "Psalms, meaning 'praises' — from the Hebrew Tehillah (praise)",
+    "Mishlei": "Proverbs, meaning 'parables' or 'wise sayings'",
+    "Yesha'yah": "Isaiah, from Yasha (salvation) and Yah (YHWH): 'YHWH is salvation'",
+    "Vayikra": "Leviticus, meaning 'and He called' — the first word of the book in Hebrew",
     "Shoftim": "Judges",
-    "1 Shemuel": "1 Samuel",
-    "Yaacov": "James",
-    "1 Petros": "1 Peter"
+    "1 Shemuel": "1 Samuel, from Shama (heard) and El (God): 'heard by Elohim'",
+    "Yaacov": "James, from Yaaqov (supplanter): 'he grasps the heel'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'"
   }
 };

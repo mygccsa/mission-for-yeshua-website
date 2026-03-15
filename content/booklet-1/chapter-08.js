@@ -77,10 +77,10 @@ BOOKLET_CONTENT["1-8"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "Yohanan": "John",
-    "1 Petros": "1 Peter",
-    "Paulos": "Paul"
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
+    "Paulos": "Paul, from the Latin Paulus meaning 'small' or 'humble'"
   }
 };

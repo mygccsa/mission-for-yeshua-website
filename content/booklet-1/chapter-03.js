@@ -161,11 +161,11 @@ BOOKLET_CONTENT["1-3"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Bereshit": "Genesis",
-    "Yohanan": "John",
-    "1 Yohanan": "1 John",
-    "Shemot": "Exodus",
+    "Bereshit": "Genesis, meaning 'in the beginning' — the first word of the book in Hebrew",
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "1 Yohanan": "1 John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Shemot": "Exodus, meaning 'names' — from the opening phrase 'these are the names'",
     "Shoftim": "Judges",
-    "Bamidbar": "Numbers"
+    "Bamidbar": "Numbers, meaning 'in the wilderness' — where the events of the book take place"
   }
 };

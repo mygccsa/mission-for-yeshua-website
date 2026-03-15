@@ -203,12 +203,12 @@ BOOKLET_CONTENT["1-4"] = {
   supportingVerses: [],
   closing: "",
   footnotes: {
-    "Mattithyah": "Matthew",
+    "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "Yohanan": "John",
-    "Yaacov": "James",
-    "Bereshit": "Genesis",
-    "Yehudah": "Jude",
-    "1 Petros": "1 Peter"
+    "Yohanan": "John, from Yo (YHWH) and Chanan (gracious): 'YHWH is gracious'",
+    "Yaacov": "James, from Yaaqov (supplanter): 'he grasps the heel'",
+    "Bereshit": "Genesis, meaning 'in the beginning' — the first word of the book in Hebrew",
+    "Yehudah": "Jude, from Yadah (to praise): 'praise'",
+    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'"
   }
 };
