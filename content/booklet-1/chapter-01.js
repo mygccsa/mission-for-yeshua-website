@@ -58,7 +58,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     { type: "quote", text: "And the king of Sodom went out to meet him after his return from the smiting of Chedorlaomer, and of the kings that were with him, at the valley of the plain, which is the king\u2019s valley. And Malkiy-Tsedeq king of Shalem brought forth bread and wine, he, the priest of El Elyon. And he blessed him, and said: Blessed be Abram from El Elyon, possessor of heavens and Earth: And blessed be El Elyon, which has delivered your enemies into your hand! And he gave him the tithe of all.", source: "Bereshit 14:17-20" },
 
-    "The Testament of Yehoshua states that Melchizedek was a type of Yehoshua Mashiah.",
+    "The Testament of Yehoshua states that Malkiy-Tsedeq was a type of Yehoshua Mashiah.",
 
     { type: "quote", text: "For this Malkiy-Tsedeq, king of Shalem, priest of the most high Elohim, who met Abraham returning from the slaughter of the kings, and blessed him; to whom also Abraham gave a tenth part of all; being first interpreted King of righteousness, and after that also King of Shalem, which is, King of peace. Without father, without mother, without genealogy, having neither beginning of days, nor end of life; but made like the Son of Elohim. He remains a priest continually. Now consider how great this one, to whom even the patriarch Abraham gave the tenth of the spoils.", source: "Hebrews 7:1-4" },
 
@@ -140,7 +140,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     { type: "quote", text: "The scepter will not depart from Yehudah, nor a lawgiver from between his feet, until Shiyloh come; and to him will the gathering of the people be.", source: "Bereshit 49:10" },
 
-    "This passage indicates that the Mashiah, here called Shiloh and presented as a governmental authority, is the designated instrument by Adonai to fulfill the promise to bless the nations through Abraham\u2019s descendants. Ever since the earthly service of Yehoshua the Mashiah, the Church was born and millions of people, as numerous as the stars in heaven, now follow the Elohim of Abraham, Yitzhak and Israel.",
+    "This passage indicates that the Mashiah, here called Shiyloh and presented as a governmental authority, is the designated instrument by Adonai to fulfill the promise to bless the nations through Abraham\u2019s descendants. Ever since the earthly service of Yehoshua the Mashiah, the Church was born and millions of people, as numerous as the stars in heaven, now follow the Elohim of Abraham, Yitzhak and Israel.",
 
     { type: "quote", text: "For as many of you as have been baptized into Mashiah have clothed yourselves with Mashiah. There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female: for you are all one in Mashiah Yehoshua. But if you are of Mashiah, then are you Abraham\u2019s seed, and heirs according to the promise.", source: "Galatians 3:27-29" },
 
@@ -213,7 +213,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     { type: "heading", text: "YHWH is Adonai; Yehoshua is Adonai" },
 
-    "Adonai is the plural form of \u201CLord\u201D. The singular form, Adoni, \u201Cmy lord\u201D, is never used in the Bible to refer to Elohim. Phoenicians used it to refer to their elohim Tammuz. The Jews only use the singular form only to refer to an eminent person. In modern Hebrew, it is used as the equivalent of \u201Csir\u201D. The pronunciation of the Tetragrammaton YHWH had been prohibited since the destruction of the Temple; the Jews use Adonai in their prayers to speak to Elohim, and in everyday life, they use Hashem (The Name). The Hebrew Adonai was translated by Kyrios in Greek. In the Gospels and Epistles, this term is both used to refer to the Father (Mattithyah 1:20; 9:38; 11:25; Acts 17:24; Revelation 4:11) and the Son (Loukas 2:11; Yohanan 20:28; Acts 10:36; 1 Chronicles 2:8; Revelation 19:16).",
+    "Adonai is the plural form of \u201CLord\u201D. The singular form, Adoni, \u201Cmy lord\u201D, is never used in the Bible to refer to Elohim. Phoenicians used it to refer to their elohim Tammuz. The Jews only use the singular form only to refer to an eminent person. In modern Hebrew, it is used as the equivalent of \u201Csir\u201D. The pronunciation of the Tetragrammaton YHWH had been prohibited since the destruction of the Temple; the Jews use Adonai in their prayers to speak to Elohim, and in everyday life, they use Hashem (The Name). The Hebrew Adonai was translated by Kyrios in Greek. In the Gospels and Epistles, this term is both used to refer to the Father (Mattithyah 1:20; 9:38; 11:25; Acts 17:24; Revelation 4:11) and the Son (Loukas 2:11; Yohanan 20:28; Acts 10:36; 1 Corinthians 2:8; Revelation 19:16).",
 
     "Paulos declares that there is \u201COne Lord, one faith, one baptism, One Elohim and Father...\u201D (Ephesians 4:5-6). He confirms it again in 1 Corinthians 8:5-6:",
 
