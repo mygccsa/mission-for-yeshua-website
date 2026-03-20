@@ -21,10 +21,15 @@ No build, lint, or test commands exist for this project.
 
 ### File Structure
 - `index.html` - Homepage (root level)
-- `pages/` - Subpages (about, books, community-center, contact, teachings)
+- `pages/` - Subpages (about, books, booklets, community-center, contact, teachings)
+- `content/` - Booklet chapter data (JS files that register into `BOOKLET_CONTENT`)
+  - `booklet-N/chapter-NN.js` - Individual chapter content files
+  - `bymen-names.js` - Hebrew/Greek name mappings (`BYMEN_BOOKS`, `BYMEN_PERSONS`, `BYMEN_PLACES`)
+  - `EXAMPLE-CHAPTER.js` - Reference template for chapter authors
+- `docs/` - Source Word documents (.docx) that chapters are converted from
 - `script/css/` - Stylesheets
   - `styles.css` - Shared base styles and CSS variables
-  - `*-style.css` - Page-specific styles (e.g., `books-style.css`)
+  - `*-style.css` - Page-specific styles (e.g., `books-style.css`, `booklets-style.css`)
 - `script/js/script.js` - All JavaScript functionality
 - `images/` - Static assets (logo, favicon, book covers, hero backgrounds)
 
@@ -58,6 +63,24 @@ The design system uses CSS custom properties defined in `styles.css`:
 - `initializeFormValidation()` - Real-time form validation
 - `initializeBookFeatures()` - Book filtering by category/search on books page
 - `initializeBookCovers()` - Fallback handling for missing book images
+
+### Booklet Reader Architecture
+`pages/booklets.html` is a self-contained flipbook reader. Key architecture:
+
+1. **Content registry:** A global `BOOKLET_CONTENT` object is declared, then chapter scripts (`content/booklet-1/chapter-NN.js`) each register into it with key `"bookletNum-chapterNum"` (e.g. `BOOKLET_CONTENT["1-4"]`)
+2. **Booklet metadata:** The `B` array (in booklets.html inline script) defines all 4 booklets with their chapter titles, opening verses, and PDF filenames
+3. **Page structure:** Each booklet has fixed pages: Cover (0), Publisher (1), Notes to Readers (2), Table of Contents (3), then chapters (4+), then Back Cover (last)
+4. **Rendering:** `rn()` renders the current page, `rB()` renders content blocks, `wN()` wraps BYMEN names with tooltip spans using the chapter's `footnotes` object
+5. **Navigation:** Swipe gestures, keyboard arrows, and button clicks — all call `nx()`/`pv()` for next/previous
+6. **Chapter data shape:**
+```javascript
+BOOKLET_CONTENT["1-X"] = {
+  content: [],           // Array of content blocks (strings, quotes, headings, etc.)
+  footnotes: {},         // BYMEN name → etymological explanation mapping
+  supportingVerses: [],  // Optional: [{ text, ref }]
+  closing: ""            // Optional: closing prayer/reflection
+};
+```
 
 ### Path Conventions
 - Root pages use `script/css/` and `images/` paths
@@ -102,3 +125,15 @@ Use Hebrew/Greek names for the divine names throughout all chapter content — i
 The "first mention" rule applies **per chapter file** — each chapter independently introduces the name with its translation on the very first occurrence, then drops the translation for all subsequent uses.
 
 Note: Some authors use variant spellings (`Elohîm`, `Yehoshoua`) — do not change an author's chosen spelling, but apply the same first-mention rule.
+
+### Git Branch Structure
+```
+main                              ← Live site (GitHub Pages)
+  └── feature/booklets            ← All booklet work
+        └── booklet-1/develop     ← Integration branch for Booklet 1
+              ├── booklet-1/franck
+              ├── booklet-1/jonathan
+              ├── booklet-1/jules
+              └── booklet-1/anita
+```
+Commit message format: `content(booklet-1): add chapter X - Chapter Title`
