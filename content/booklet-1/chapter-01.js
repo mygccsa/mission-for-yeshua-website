@@ -88,7 +88,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     "The shadow of the body of the earthly Yehoshua Mashiah was represented by Mosaic ordinances (meals, celebrations, sabbaths...) (Colossians 2:16-17). Since the real deal is presented in the Gospel, we no longer need the \u201Cshadow\u201D. Similarly, sacerdotal garments, ablutions of the brass laver, animals sacrifice, shewbread are all figures having found their fulfilment in Mashiah. Their purpose being over with, they cannot, therefore, be a part of the New Covenant (Hebrews 9:9-10).",
 
-    "Thus, the high priest Aaron (Hebrews 7), the tabernacle or sanctuary (Colossians 2:9), the candlestick (Yohanan 8:12), table, shewbread (Yohanan 6), the golden altar of incense (Revelation 8:3-5), the arch of the covenant (Colossians 2:9), the golden vase (Colossians 2:9), manna (Yohanan 6), Aaron\u2019s rod, the rod of commandment (Bereshit 49), the tables of the Law (2 Corinthians 3:3; Devarim 9:15.), sacrificed animals (Yohanan 1:29), Passover (1 Corinthians 5:7) as well as sabbaths (Shemot 20:8-11) were a foreshadow of Mashiah.",
+    "Thus, the high priest Aaron (Hebrews 7), the tabernacle or sanctuary (Colossians 2:9), the candlestick (Yohanan 8:12), table, shewbread (Yohanan 6), the golden altar of incense (Revelation 8:3-5), the arch of the covenant (Colossians 2:9), the golden vase (Colossians 2:9), manna (Yohanan 6), Aaron\u2019s rod, the rod of commandment (Bereshit 49), the tables of the Law (2 Corinthians 3:3; Devarim 9:15), sacrificed animals (Yohanan 1:29), Passover (1 Corinthians 5:7) as well as sabbaths (Shemot 20:8-11) were a foreshadow of Mashiah.",
 
     { type: "heading", text: "Yehoshua Mashiah in the Tehilim" },
 
@@ -100,7 +100,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     { type: "quote", text: "And Elohim spoke all these words, saying: I am YHWH your Elohim, which have brought you out of the land of Egypt, out of the house of slaves. You will have no other elohim to my faces.", source: "Shemot 20:1-3" },
 
-    "Tehilim are hymns and lyrical songs for the glory of Elohim and of which the Mashiah is the central subject. Psalmists have announced the major events of the earthly life of Yehoshua Mashiah: His birth, His death and resurrection (Tehilim 41:68), conspiracies of men against Him (Tehilim 2), His betrayal by Yehudah (Tehilim 41), His crucifixion (Tehilim 22), His resurrection (Tehilim 16), His return (Tehilim 110), His reign (Tehilim 45, 110).",
+    "Tehilim are hymns and lyrical songs for the glory of Elohim and of which the Mashiah is the central subject. Psalmists have announced the major events of the earthly life of Yehoshua Mashiah: His birth, His death and resurrection (Tehilim 41), conspiracies of men against Him (Tehilim 2), His betrayal by Yehudah (Tehilim 41), His crucifixion (Tehilim 22), His resurrection (Tehilim 16), His return (Tehilim 110), His reign (Tehilim 45, 110).",
 
     { type: "heading", text: "Yehoshua Mashiah in the Messianic Prophecies" },
 
@@ -201,7 +201,7 @@ BOOKLET_CONTENT["1-1"] = {
 
     "Yaacov declares that at the end of times, a lion will come out of Yehudah with the rod of command and people will obey Him. Several centuries later, YHWH also revealed Himself to the people of Israel as the Lord of lords.",
 
-    { type: "quote", text: "For YHWH your Elohim is Elohim of elohim, and Adonay of lords, the El Gadowl, the Gibbor, and the Terrible, who shows no partiality, nor takes a bribe.", source: "Devarim 10:17" },
+    { type: "quote", text: "For YHWH your Elohim is Elohim of elohim, and Adonai of lords, the El Gadowl, the Gibbor, and the Terrible, who shows no partiality, nor takes a bribe.", source: "Devarim 10:17" },
 
     "There cannot be two \u201CElohim of elohim\u201D and two \u201CLords of lords\u201D. YHWH, the Elohim of elohim and Lord of Lords of Devarim 10:17 is none other than Yehoshua Mashiah our Lord. Moreover, the lion mentioned in the prophecy of Yaacov is undoubtedly Yehoshua Mashiah.",
 
@@ -407,6 +407,18 @@ BOOKLET_CONTENT["1-1"] = {
     "servitude": "the state of being a slave; bondage",
     "predestined": "determined or decided in advance by God",
     "apparitions": "visible appearances or manifestations — here, of God appearing to people",
-    "apparition": "a visible appearance or manifestation — here, of God appearing to people"
+    "apparition": "a visible appearance or manifestation — here, of God appearing to people",
+    "tohu": "formless, without shape — Hebrew for 'without form'",
+    "bohu": "empty, void — Hebrew for 'void'",
+    "Aleph Tav": "the first and last letters of the Hebrew alphabet (equivalent to Alpha and Omega in Greek)",
+    "Hallelu-Yah": "Praise YHWH! — from Hallelu (praise) and Yah (short form of YHWH)",
+    "Yah": "short form of YHWH, God's personal name",
+    "torah": "the Law; the first five books of the Bible given through Moses",
+    "Kyrios": "Greek word for 'Lord'",
+    "Adoni": "'my lord' — singular form of Adonai, used for humans not for God",
+    "Hashem": "'The Name' — how Jews refer to God in everyday speech",
+    "scepter": "a rod or staff symbolizing royal authority and power",
+    "Mount Moriah": "the mountain in Jerusalem where Abraham nearly sacrificed Yitzhak",
+    "Chedorlaomer": "a king of Elam who made war against the cities of the plain"
   }
 };
