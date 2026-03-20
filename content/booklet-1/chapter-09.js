@@ -12,20 +12,20 @@ BOOKLET_CONTENT["1-9"] = {
 
     { type: "heading", text: "Who Was the Letter Written To?" },
 
-    "The letter of Hebrews was written to Jewish Mashiahians, people who were deeply familiar with the Old Covenant, Jewish tradition, and the ceremonies of the Temple. They were not outsiders to Scripture. They had extensive knowledge of the priesthood, the sacrificial system, and the law of Moses.",
+    "The letter of Hebrews was written to Jewish believers in Mashiah (Christ), people who were deeply familiar with the Old Covenant, Jewish tradition, and the ceremonies of the Temple. They were not outsiders to Scripture. They had extensive knowledge of the priesthood, the sacrificial system, and the law of Moshe (Moses).",
 
-    "The author establishes the supremacy of Mashiah (Christ) over everything they had known:",
+    "The author establishes the supremacy of Mashiah over everything they had known:",
 
     { type: "list", items: [
       "Hebrews 1:1\u20132 \u2014 Eloh\u00EEm (God) no longer speaks through prophets alone. He has spoken finally and fully through His Son.",
-      "Hebrews 4:14\u201315 \u2014 Yehoshoua is the ultimate High Priest, surpassing the entire Levitical priesthood.",
+      "Hebrews 4:14\u201315 \u2014 Yehoshoua (Jesus) is the ultimate High Priest, surpassing the entire Levitical priesthood.",
       "Hebrews 8:6\u20137 \u2014 The New Covenant through Mashiah is superior to the Old.",
       "Hebrews 10:1 \u2014 The Old Testament law and sacrifices were inadequate. Mashiah is their fulfillment and reality."
     ] },
 
     { type: "heading", text: "When Was It Written?" },
 
-    "The letter was written before the destruction of the second Jerusalem Temple in 70 AD, while the Temple still stood. This matters because the pull toward the old ways was not merely a theoretical temptation. The Temple was still there. The ceremonies were still happening. The old system was still visible and accessible.",
+    "The letter was written before the destruction of the second Yerushalaim (Jerusalem) Temple in 70 AD, while the Temple still stood. This matters because the pull toward the old ways was not merely a theoretical temptation. The Temple was still there. The ceremonies were still happening. The old system was still visible and accessible.",
 
     { type: "heading", text: "What Was the Problem?" },
 
@@ -91,7 +91,7 @@ BOOKLET_CONTENT["1-9"] = {
 
     "The parable of the prodigal son in Loukas 15:11 shows us what the process of repentance looks like in practice. The son\u2019s journey home is a picture of what true repentance involves at every step.",
 
-    { type: "quote", text: "But when he came to himself, he said: How many of my father\u2019s hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, Father, I have sinned against heaven and before you.", source: "Loukas 15:17\u201318" },
+    { type: "quote", text: "But having come to himself, he said: How many hired servants of my father\u2019s have abundance of bread, and I am perishing with hunger! Having risen, I will go to my father and say to him: Father, I have sinned against heaven, and before you,", source: "Loukas 15:17\u201318" },
 
     { type: "list", items: [
       "Acknowledge our sinful nature \u2014 The son \u201Ccame to himself.\u201D He saw clearly where he was and how he had arrived there. Repentance begins with honest self-recognition, not blame-shifting, not minimizing, but seeing the truth about our own condition.",
@@ -104,7 +104,7 @@ BOOKLET_CONTENT["1-9"] = {
 
     "Why repent from dead works? The answer is given in Hebrews 9:14.",
 
-    { type: "quote", text: "How much more will the blood of Mashiah, who through the eternal Spirit offered himself without blemish to Eloh\u00EEm, purify our conscience from dead works to serve the living Eloh\u00EEm.", source: "Hebrews 9:14" },
+    { type: "quote", text: "how much more will the blood of Mashiah, who through the eternal Spirit offered himself without blemish to Eloh\u00EEm, cleanse your conscience from dead works to serve the living Eloh\u00EEm?", source: "Hebrews 9:14" },
 
     "The blood of Mashiah cleanses our conscience from dead works. Notice the purpose given \u2014 not simply so we feel better, not so we carry less guilt \u2014 but so that we may serve Eloh\u00EEm.",
 
@@ -114,14 +114,42 @@ BOOKLET_CONTENT["1-9"] = {
 
     { type: "statement", text: "Mashiah\u2019s work is finished. Repentance from dead works is simply trusting that it is." },
 
-    { type: "quote", text: "For whoever has entered Eloh\u00EEm\u2019s rest has also rested from his works as Eloh\u00EEm did from his.", source: "Hebrews 4:10" }
+    { type: "quote", text: "For he who has entered into his rest, has himself also rested from his works, as Eloh\u00EEm from his.", source: "Hebrews 4:10" }
   ],
   supportingVerses: [],
   closing: "",
   footnotes: {
+    // BYMEN book names
     "Mattithyah": "Matthew, from Mattan (gift) and Yah (YHWH): 'gift of YHWH'",
     "Loukas": "Luke",
-    "1 Petros": "1 Peter, from Petros (Greek) meaning 'rock'",
-    "2 Petros": "2 Peter, from Petros (Greek) meaning 'rock'"
+    "2 Petros": "2 Peter, from Petros (Greek) meaning 'rock'",
+
+    // Person names
+    "Moshe": "Moses, from the Hebrew Mashah meaning 'drawn out' — because he was drawn out of water",
+
+    // Place names
+    "Yerushalaim": "Jerusalem, from Yeru (foundation/city) and Shalom (peace): 'city of peace'",
+
+    // Theological terms
+    "repentance": "a sincere turning away from sin and turning toward Eloh\u00EEm; a complete change of heart, mind, and direction",
+    "Old Covenant": "the agreement between Eloh\u00EEm and Yisrael established through Moshe, centered on the Torah and the sacrificial system",
+    "New Covenant": "the agreement established through the blood of Mashiah, replacing the Old Covenant with a direct relationship with Eloh\u00EEm through faith",
+    "priesthood": "the office and order of priests who served as mediators between Eloh\u00EEm and His people, offering sacrifices on their behalf",
+    "Levitical priesthood": "the priestly order descended from the tribe of Levi, appointed to serve in the Temple and offer sacrifices under the Old Covenant",
+    "sacrificial system": "the Old Covenant practice of offering animal sacrifices to atone for sin, foreshadowing the final sacrifice of Mashiah",
+    "High Priest": "the chief priest who alone could enter the Most Holy Place once a year to make atonement for the people; Mashiah is the ultimate High Priest",
+    "conscience": "the inner sense of right and wrong; the part of a person that feels guilt or peace before Eloh\u00EEm",
+    "blemish": "a flaw or defect; a sacrifice 'without blemish' means perfect and without fault — pointing to Mashiah's sinless life",
+
+    // Greek terms
+    "Metamelomai": "Greek word meaning 'to regret' or 'to feel remorse' — an emotional response to wrongdoing, but not necessarily a change of direction",
+    "Metanoeo": "Greek word meaning 'to change one's mind and purpose' — a deeper repentance that reaches beyond emotion into thinking",
+    "Metanoia": "Greek word meaning 'a change of mind, a turning around' — a complete transformation in thinking and attitude toward sin and righteousness",
+    "metanoia": "Greek word meaning 'a change of mind, a turning around' — a complete transformation in thinking and attitude toward sin and righteousness",
+
+    // Formal/literary vocabulary
+    "prodigal": "recklessly wasteful or extravagant; the 'prodigal son' squandered his inheritance on wild living",
+    "remorse": "deep regret or guilt for something wrong that was done",
+    "supremacy": "the state of being supreme; having the highest authority, rank, or power above all others"
   }
 };
