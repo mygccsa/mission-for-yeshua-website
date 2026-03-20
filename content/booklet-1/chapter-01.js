@@ -328,7 +328,6 @@ BOOKLET_CONTENT["1-1"] = {
     "Yitzhak": "Isaac, from Tsachaq (to laugh): 'he laughs' — because Sarah laughed at the promise",
     "Yaacov": "Jacob, from Aqev (heel): 'he grasps the heel'",
     "Yarden": "Jordan, from Yarad (to descend): 'the descender'",
-    "Galil": "Galilee, from Galil meaning 'district' or 'circle'",
     "Nazaret": "Nazareth, possibly from Netser (branch): 'branch'",
     "Malkiy-Tsedeq": "Melchizedek, from Malki (my king) and Tsedeq (righteousness): 'my king is righteousness'",
     "Yehudah": "Judah, from Yadah (to praise): 'praise'",
@@ -341,6 +340,15 @@ BOOKLET_CONTENT["1-1"] = {
     "Bethabara": "from Beit (house) and Abarah (crossing): 'house of the ford'",
     "Shalem": "Salem (ancient Jerusalem), from Shalom (peace): 'peace'",
     "Zebouloun": "Zebulun, from Zabal (to dwell/honor): 'dwelling' or 'honor'",
-    "Bar-Yonah": "Son of Jonah, from Bar (son, Aramaic) and Yonah (dove)"
+    "Bar-Yonah": "Son of Jonah, from Bar (son, Aramaic) and Yonah (dove)",
+    "Petros": "Peter, from Petros (Greek) meaning 'rock'",
+    "Naphtali": "from Naphtal (my wrestling): the tribe named after the son born of Rachel's struggle",
+    "Capernaum": "from Kfar (village) and Nachum (Nahum, meaning 'comfort'): 'village of Nahum'",
+    "El Elyon": "God Most High, from El (God) and Elyon (highest, supreme)",
+    "El Gadowl": "the Great God, from El (God) and Gadowl (great)",
+    "Gibbor": "the Mighty One, from Gabar (to be strong)",
+    "Adonai": "Lord (plural of majesty), from Adon (lord, master)",
+    "Galilee": "from Galil meaning 'district' or 'circle'",
+    "Zebulun": "Zebulun, from Zabal (to dwell/honor): 'dwelling' or 'honor'"
   }
 };
