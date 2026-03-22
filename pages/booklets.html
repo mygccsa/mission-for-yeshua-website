@@ -259,6 +259,13 @@
             </div>
             <div class="rd-tz-l" onclick="pv()"></div>
             <div class="rd-tz-r" onclick="nx()"></div>
+            <div id="swipeHint" class="swipe-hint" onclick="dH()">
+                <div class="swipe-hint-inner">
+                    <p><i class="fas fa-hand-point-left"></i> Swipe left to go to the next page</p>
+                    <p><i class="fas fa-hand-point-up"></i> Swipe up to read through the page</p>
+                    <span class="swipe-hint-dismiss">Tap to dismiss</span>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -291,7 +298,8 @@ var bkBg=['linear-gradient(175deg,#001a36,#0a4d8c)','linear-gradient(175deg,#001
 var logoData='';(function(){var img=new Image();img.onload=function(){var c=document.createElement('canvas');c.width=img.width;c.height=img.height;c.getContext('2d').drawImage(img,0,0);try{logoData=c.toDataURL('image/png')}catch(e){}};img.src='../images/logo.png'})();
 function isDesktop(){return window.innerWidth>=768}
 function populateTOC(){if(cK<0)return;var bk=B[cK],lp=tot()-1,h='<div class="ti'+(cP===0?' cur':'')+'" onclick="gT(0)"><span class="ti-n">\u25C6</span>Cover</div><div class="ti'+(cP===1?' cur':'')+'" onclick="gT(1)"><span class="ti-n">\u25C6</span>Publisher</div><div class="ti'+(cP===2?' cur':'')+'" onclick="gT(2)"><span class="ti-n">\u25C6</span>Notes</div><div class="ti'+(cP===3?' cur':'')+'" onclick="gT(3)"><span class="ti-n">\u25C6</span>Contents</div>';for(var i=0;i<bk.ch.length;i++)h+='<div class="ti'+(cP===i+4?' cur':'')+'" onclick="gT('+(i+4)+')"><span class="ti-n">'+(i+1)+'</span>'+bk.ch[i].t+'</div>';h+='<div class="ti'+(cP===lp?' cur':'')+'" onclick="gT('+lp+')"><span class="ti-n">\u25C6</span>Back Cover</div>';document.getElementById('tL').innerHTML=h}
-function oB(i){cK=i;cP=0;document.getElementById('bk-reader').style.display='flex';document.body.style.overflow='hidden';rn();mD();uN();populateTOC();var toc=document.getElementById('bk-toc');if(isDesktop()){toc.classList.remove('collapsed')}else{toc.classList.add('collapsed')}location.hash='booklet-'+(i+1)}
+function dH(){var h=document.getElementById('swipeHint');if(h)h.style.display='none'}
+function oB(i){cK=i;cP=0;document.getElementById('bk-reader').style.display='flex';document.body.style.overflow='hidden';rn();mD();uN();populateTOC();var toc=document.getElementById('bk-toc');if(isDesktop()){toc.classList.remove('collapsed')}else{toc.classList.add('collapsed');var h=document.getElementById('swipeHint');if(h&&!sessionStorage.getItem('swipeHintSeen')){h.style.display='flex';sessionStorage.setItem('swipeHintSeen','1')}}location.hash='booklet-'+(i+1)}
 function cB(){document.getElementById('bk-reader').style.display='none';document.body.style.overflow='';var toc=document.getElementById('bk-toc');toc.classList.add('collapsed');cK=-1;location.hash=''}
 function tot(){return cK<0?0:4+B[cK].ch.length+1}
 function nx(){if(cP>=tot()-1)return;var p=document.getElementById('pg');p.classList.add('fl');setTimeout(function(){cP++;rn();uN();populateTOC();p.classList.remove('fl');p.classList.add('fr');requestAnimationFrame(function(){p.classList.remove('fr')});p.scrollTop=0},170)}
