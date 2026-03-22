@@ -122,7 +122,7 @@ BOOKLET_CONTENT["1-8"] = {
     "burnt offering": "a sacrifice completely consumed by fire on the altar, symbolizing total dedication and surrender to Elohim",
     "Torah": "the Law of Elohim given through Moshe; the first five books of the Bible (Bereshit through Devarim)",
     "Hallelu-Yah": "Hebrew exclamation meaning 'Praise Yah (YHWH)!' — from Hallelu (praise) and Yah (short form of YHWH)",
-    "idol": "an image or object worshipped as a god; anything that takes the place of the true Elohim",
+    "idol": "an image or object worshipped as an elohim; anything that takes the place of the true Elohim",
 
     // Rare/formal words
     "fetish": "an object believed to have magical or supernatural protective powers",

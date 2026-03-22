@@ -81,7 +81,7 @@ BOOKLET_CONTENT["1-2"] = {
 
     "Yehoshua also warned in Mattithyah 6:24: \u201CNo one can serve two lords, for either he will hate the one, and love the other, or else he will hold to the one, and despise the other. You cannot serve Elohim and Mammon.\u201D This principle shows that worshipping multiple gods leads to divided loyalty.",
 
-    { type: "heading", text: "The Danger of Introducing Three Gods" },
+    { type: "heading", text: "The Danger of Introducing Three elohim" },
 
     "Today, many churches present the Father, Son, and Holy Spirit as if they were three separate gods. This leads believers to love one more than the other, creating confusion. Yet Scripture presents one true Lord who is:",
 
@@ -94,7 +94,7 @@ BOOKLET_CONTENT["1-2"] = {
 
     "These titles show that the same Elohim reveals Himself in different aspects according to the needs of His people, but He remains One Lord.",
 
-    { type: "heading", text: "The Shame of Worshipping Other Gods" },
+    { type: "heading", text: "The Shame of Worshipping Other elohim" },
 
     "Scripture warns of the shame of idolatry:",
 
@@ -219,10 +219,10 @@ BOOKLET_CONTENT["1-2"] = {
     "Aleph": "the first letter of the Hebrew alphabet \u2014 often silent, symbolizing the invisible beginning",
     "Tav": "the last letter of the Hebrew alphabet \u2014 in ancient script drawn as a cross-like mark, meaning \u2018sign\u2019",
     // Vocabulary \u2014 theological terms
-    "monotheism": "the belief that there is only one God",
+    "monotheism": "the belief that there is only one Elohim",
     "incarnation": "the act of Elohim taking on human flesh \u2014 from the Latin incarnare, \u2018to make flesh\u2019",
-    "idolatry": "the worship of idols or false gods",
-    "polytheism": "the belief in or worship of multiple gods",
+    "idolatry": "the worship of false elohim or images",
+    "polytheism": "the belief in or worship of multiple elohim",
     "sovereignty": "supreme authority and power over all things",
     "sovereign": "having supreme authority and power; ruling over all",
     "Redeemer": "one who rescues or sets free by paying a price \u2014 the one who delivers His people from bondage",
@@ -234,9 +234,9 @@ BOOKLET_CONTENT["1-2"] = {
     "mediator": "a go-between who reconciles two opposing parties",
     "baptism": "immersion in water as a sign of repentance and faith",
     "covenant": "a solemn binding agreement or promise, especially between Elohim and His people",
-    "Trinity": "a doctrine teaching that God exists as three persons (Father, Son, and Holy Spirit) in one essence",
-    "trinities": "plural of Trinity \u2014 systems of three gods worshipped together",
-    "pantheon": "the collection of all the gods worshipped by a particular religion or culture",
+    "Trinity": "a doctrine teaching that Elohim exists as three persons (Father, Son, and Holy Spirit) in one essence",
+    "trinities": "plural of Trinity \u2014 systems of three elohim worshipped together",
+    "pantheon": "the collection of all the elohim worshipped by a particular religion or culture",
     "apostles": "messengers sent with authority \u2014 the followers chosen by Yehoshua to spread the good news",
     "apostolic": "relating to the apostles or their teachings and authority",
     // Vocabulary \u2014 formal/literary
