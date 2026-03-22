@@ -8,7 +8,7 @@ BOOKLET_CONTENT["1-11"] = {
   content: [
     "When in the church you do not consider the laying on of the hands, some blessings will never happen. When one amputates his or her faith of a fundamental part of the scripture, he may not make it to heaven.",
 
-    "The laying on of hands in the Bible originated in the Old Testament as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament as a means of imparting the Holy Spirit, healing, and ordination. It represents the transmission of authority, blessing, and divine power.",
+    "The laying on of hands in the Bible originated in the Old Covenant as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament as a means of imparting the Holy Spirit, healing, and ordination. It represents the transmission of authority, blessing, and divine power.",
 
     { type: "heading", text: "1. The Importance of the Hands Under the Old Covenant" },
 
@@ -20,7 +20,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "2. The Relationship Between Yehoshua Mashiah (Christ) and Men Through the Laying on of Hands Under the New Covenant" },
 
-    "The practice of laying on of hands under the New Covenant is both a continuation and a fulfilment of the Old Covenant. In the Old Testament, this act symbolized the transfer of sin onto sacrificial animals, imparted blessings, and conferred authority. These rituals were shadows pointing to Mashiah, the true sacrifice and mediator. As Hebrews 9 explains, the earthly tabernacle and sacrifices were copies of heavenly realities, preparing the way for Yehoshua, whose blood brought eternal redemption. Thus, what was once symbolic in the Old Covenant became reality in Mashiah, who now imparts His Spirit and authority directly to believers through the laying on of hands.",
+    "The practice of laying on of hands under the New Covenant is both a continuation and a fulfilment of the Old Covenant. In the Old Covenant, this act symbolized the transfer of sin onto sacrificial animals, imparted blessings, and conferred authority. These rituals were shadows pointing to Mashiah, the true sacrifice and mediator. As Hebrews 9 explains, the earthly tabernacle and sacrifices were copies of heavenly realities, preparing the way for Yehoshua, whose blood brought eternal redemption. Thus, what was once symbolic in the Old Covenant became reality in Mashiah, who now imparts His Spirit and authority directly to believers through the laying on of hands.",
 
     "Under the New Covenant, the laying on of hands became a means of imparting the Holy Spirit, healing, and ordination. In Acts 8:17, Petros (Peter) and Yohanan (John) laid hands on believers, and they received the Holy Spirit. Similarly, in Acts 19:6, Paulos (Paul) laid hands on disciples, and they spoke in tongues and prophesied. These acts visibly connected men to Mashiah\u2019s power and presence, showing that forgiveness, transformation, and empowerment flow through Him.",
 
@@ -70,7 +70,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "This demonstrates that gifts can be imparted through the laying on of hands by assembly leaders, under the guidance of the Holy Spirit.",
 
-    "The Old Testament also illustrates this principle. Devarim 34:9 records: \u201CAnd Yehoshua the son of Nun was full of the spirit of wisdom; for Moshe had laid his hands upon him: and the sons of Israel hearkened to him, and did as YHWH commanded Moshe.\u201D Here, Moshe transmitted wisdom and authority to Yehoshua through the laying on of hands, showing that Elohim works through chosen men to equip others for service.",
+    "The Old Covenant also illustrates this principle. Devarim 34:9 records: \u201CAnd Yehoshua the son of Nun was full of the spirit of wisdom; for Moshe had laid his hands upon him: and the sons of Israel hearkened to him, and did as YHWH commanded Moshe.\u201D Here, Moshe transmitted wisdom and authority to Yehoshua through the laying on of hands, showing that Elohim works through chosen men to equip others for service.",
 
     "In the New Testament, this continues. Acts 19:1\u20136 recounts Paulos\u2019s ministry in Ephesus: \u201CAnd Paulos having laid hands upon them, the Holy Spirit came upon them and, not only did they speak in tongues, but also prophesied.\u201D Through Paulos\u2019s hands, Mashiah imparted the Holy Spirit and spiritual gifts to the disciples.",
 
@@ -91,7 +91,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     "In Markos 10:13\u201316, Scripture records: \u201CAnd they brought to him children that he might touch them. But the disciples rebuked sharply those bringing them. But Yehoshua, seeing it, was indignant and said to them: Let the children come to me, and do not hinder them, for of such is the Kingdom of Elohim\u2026 And having taken them in his arms, he blessed them, laying his hands upon them.\u201D Here, Yehoshua laid His hands on the children, imparting divine blessing. His touch was not casual; it was a transmission of Elohim\u2019s favour and affirmation of their place in the kingdom.",
 
-    "In the Old Testament, Bereshit 48:14 records Yaaqov blessing Ephraim and Menasheh: \u201CAnd Israel stretched out his right hand, and laid it upon Ephraim\u2019s head, who was the younger, and his left hand upon Menasheh\u2019s head, guiding his hands wittingly; for Menasheh was the firstborn.\u201D Through this act, Yaaqov transmitted prophetic blessings that shaped the future of these boys, declaring that they would become great nations. Indeed, history confirms that both tribes became powerful and influential in Yisrael.",
+    "In the Old Covenant, Bereshit 48:14 records Yaaqov blessing Ephraim and Menasheh: \u201CAnd Israel stretched out his right hand, and laid it upon Ephraim\u2019s head, who was the younger, and his left hand upon Menasheh\u2019s head, guiding his hands wittingly; for Menasheh was the firstborn.\u201D Through this act, Yaaqov transmitted prophetic blessings that shaped the future of these boys, declaring that they would become great nations. Indeed, history confirms that both tribes became powerful and influential in Yisrael.",
 
     "Just as Yehoshua and Yaaqov used their hands to bless, common Christians today can also use their hands to bless their family members. Parents can lay hands on their children and proclaim words of blessing such as, \u201CBe intelligent, fear the Lord, walk in wisdom, and prosper in all you do.\u201D This act is not magical but a faith-filled declaration that aligns with Elohim\u2019s promises. The laying on of hands should never be used to hit or communicate violence; instead, it must be a channel of life, encouragement, and spiritual impartation.",
 
@@ -145,7 +145,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "Transmission of Sin and Burden" },
 
-    "In the Old Testament, the laying on of hands symbolized the transfer of sin. Vayikra 16:20\u201322 says: \u201CAnd when he has made an end of reconciling the holy place, and the tent of meeting, and the altar, he will bring the live goat: And Aaron will lay both his hands upon the head of the live goat, and confess over him all the iniquities of the sons of Yisrael, and all their transgressions in all their sins, putting them upon the head of the goat, and will send him away by the hand of a fit man into the wilderness: And the goat will bear upon him all their iniquities to a land not inhabited.\u201D This shows that sin could be transmitted through the laying on of hands. The principle remains: what is imparted can be either life or death, blessing or curse.",
+    "In the Old Covenant, the laying on of hands symbolized the transfer of sin. Vayikra 16:20\u201322 says: \u201CAnd when he has made an end of reconciling the holy place, and the tent of meeting, and the altar, he will bring the live goat: And Aaron will lay both his hands upon the head of the live goat, and confess over him all the iniquities of the sons of Yisrael, and all their transgressions in all their sins, putting them upon the head of the goat, and will send him away by the hand of a fit man into the wilderness: And the goat will bear upon him all their iniquities to a land not inhabited.\u201D This shows that sin could be transmitted through the laying on of hands. The principle remains: what is imparted can be either life or death, blessing or curse.",
 
     { type: "heading", text: "New Covenant Warning" },
 

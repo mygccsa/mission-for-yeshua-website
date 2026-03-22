@@ -89,7 +89,7 @@ BOOKLET_CONTENT["1-3"] = {
 
     { type: "heading", text: "Before Pentecost" },
 
-    "In the Old Testament and even during the Lord\u2019s earthly life, the Spirit came upon certain individuals to accomplish specific purposes, and then withdrew when that purpose was fulfilled. This was temporary empowering, not permanent indwelling. Examples include:",
+    "In the Old Covenant and even during the Lord\u2019s earthly life, the Spirit came upon certain individuals to accomplish specific purposes, and then withdrew when that purpose was fulfilled. This was temporary empowering, not permanent indwelling. Examples include:",
 
     { type: "list", items: [
       "Bezaleel \u2014 Shemot 31:3, 35:31",

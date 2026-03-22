@@ -28,7 +28,7 @@ BOOKLET_CONTENT["1-2"] = {
 
     "Paulos was addressing Greeks who worshipped many gods in the pantheon\u2014Zeus, Apollo, Artemis, and others. Yet he emphasized that there is only one true Elohim, the Father, from whom all things come. This was the apostolic doctrine Paulos defended throughout his ministry.",
 
-    { type: "heading", text: "Old Testament Witness" },
+    { type: "heading", text: "Old Covenant Witness" },
 
     { type: "quote", text: "See now that I, even I, am he, and there is no elohim with me: I kill, and I make alive; I wound, and I heal! Neither is there any that can deliver out of my hand!", source: "Devarim 32:39" },
 
