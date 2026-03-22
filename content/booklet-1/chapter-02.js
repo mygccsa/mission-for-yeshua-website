@@ -122,7 +122,7 @@ BOOKLET_CONTENT["1-2"] = {
 
     { type: "heading", text: "The Sign of Immanu-El (Emmanuel)" },
 
-    { type: "quote", text: "Therefore Adonay himself will give you a sign; Behold, the virgin will conceive, and bear a son, and will call his name Immanu-El.", source: "Yesha\u2019yah 7:14" },
+    { type: "quote", text: "Therefore Adonai himself will give you a sign; Behold, the virgin will conceive, and bear a son, and will call his name Immanu-El.", source: "Yesha\u2019yah 7:14" },
 
     "The \u201Csign\u201D (Tav) is explained further. The virgin birth is not merely a miracle\u2014it is the visible manifestation of the invisible Elohim. Immanu-El means \u201CElohim with us.\u201D This is not another god, nor a separate divine being, but the same Lord who spoke in Yesha\u2019yah 44:6.",
 
@@ -205,7 +205,7 @@ BOOKLET_CONTENT["1-2"] = {
     "Beit-Lehem": "Bethlehem, from Beit (house) and Lehem (bread): \u2018house of bread\u2019",
     // Divine titles
     "Tsevaot": "Hosts or Armies \u2014 a divine title meaning \u2018Lord of heavenly armies\u2019",
-    "Adonay": "Lord or Master, from the Hebrew Adon (lord): a title of reverence for YHWH",
+    "Adonai": "Lord or Master, from the Hebrew Adon (lord): a title of reverence for YHWH",
     "Immanu-El": "Emmanuel, from Immanu (with us) and El (God): \u2018Elohim is with us\u2019",
     "Eloah": "God (singular), the poetic singular form of Elohim used in Hebrew scripture",
     "El Elyon": "God Most High, from El (God) and Elyon (highest): \u2018the Most High Elohim\u2019",
