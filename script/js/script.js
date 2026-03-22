@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initializeBookCovers();
     initializeBackToTop();
     initializeShareButtons();
+    initializeBookletShareButtons();
     initializeDarkMode();
     initializeScrollProgress();
 });
@@ -534,6 +535,55 @@ function initializeShareButtons() {
         copyLink.addEventListener('click', (e) => {
             e.preventDefault();
             navigator.clipboard.writeText(bookLink).then(() => {
+                const originalText = copyLink.innerHTML;
+                copyLink.innerHTML = '<i class="fas fa-check"></i> Copied!';
+                setTimeout(() => {
+                    copyLink.innerHTML = originalText;
+                }, 2000);
+            });
+        });
+    });
+}
+
+// Share Buttons for Booklet Cards
+function initializeBookletShareButtons() {
+    const bookletCards = document.querySelectorAll('.booklet-card');
+    if (bookletCards.length === 0) return;
+
+    bookletCards.forEach((card, index) => {
+        const actionsDiv = card.querySelector('.booklet-actions');
+        if (!actionsDiv) return;
+
+        const bookletTitle = card.querySelector('h2')?.textContent || 'Check out this booklet';
+        const bookletLink = window.location.origin + window.location.pathname + '#booklet-' + (index + 1);
+
+        const shareBtn = document.createElement('button');
+        shareBtn.className = 'share-btn';
+        shareBtn.setAttribute('aria-label', 'Share this booklet');
+        shareBtn.innerHTML = `
+            <i class="fas fa-share-alt"></i>
+            <div class="share-dropdown">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(bookletLink)}" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-facebook"></i> Facebook
+                </a>
+                <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(bookletTitle + ' — Mission for Yeshua')}&url=${encodeURIComponent(bookletLink)}" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="https://wa.me/?text=${encodeURIComponent(bookletTitle + ' — Mission for Yeshua ' + bookletLink)}" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-whatsapp"></i> WhatsApp
+                </a>
+                <a href="#" class="copy-link" data-link="${bookletLink}">
+                    <i class="fas fa-link"></i> Copy Link
+                </a>
+            </div>
+        `;
+
+        actionsDiv.appendChild(shareBtn);
+
+        const copyLink = shareBtn.querySelector('.copy-link');
+        copyLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            navigator.clipboard.writeText(bookletLink).then(() => {
                 const originalText = copyLink.innerHTML;
                 copyLink.innerHTML = '<i class="fas fa-check"></i> Copied!';
                 setTimeout(() => {
