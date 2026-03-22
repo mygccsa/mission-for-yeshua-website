@@ -1,5 +1,5 @@
 /**
- * Booklet 1, Chapter 1: One God — Elohim Yehoshua
+ * Booklet 1, Chapter 1: One Elohim: Yehoshua
  * Author: Franck
  *
  * See EXAMPLE-CHAPTER.js for all available content block types.
