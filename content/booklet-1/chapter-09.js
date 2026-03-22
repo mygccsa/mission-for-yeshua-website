@@ -17,8 +17,8 @@ BOOKLET_CONTENT["1-9"] = {
     "The author establishes the supremacy of Mashiah over everything they had known:",
 
     { type: "list", items: [
-      "Hebrews 1:1\u20132 \u2014 Eloh\u00EEm (God) no longer speaks through prophets alone. He has spoken finally and fully through His Son.",
-      "Hebrews 4:14\u201315 \u2014 Yehoshoua (Jesus) is the ultimate High Priest, surpassing the entire Levitical priesthood.",
+      "Hebrews 1:1\u20132 \u2014 Elohim (God) no longer speaks through prophets alone. He has spoken finally and fully through His Son.",
+      "Hebrews 4:14\u201315 \u2014 Yehoshua (Jesus) is the ultimate High Priest, surpassing the entire Levitical priesthood.",
       "Hebrews 8:6\u20137 \u2014 The New Covenant through Mashiah is superior to the Old.",
       "Hebrews 10:1 \u2014 The Old Covenant law and sacrifices were inadequate. Mashiah is their fulfillment and reality."
     ] },
@@ -45,7 +45,7 @@ BOOKLET_CONTENT["1-9"] = {
 
     "<i>Metanoia</i> (Hebrews 6:1) \u2014 A change of mind, a turning around. A fundamental transformation in thinking and attitude toward sin and righteousness. This is the word used in our passage.",
 
-    "For new believers: Feeling sorry is not the same as repenting. True repentance, <i>metanoia</i>, is a complete turning around. A reorientation of how you think about sin and about Eloh\u00EEm.",
+    "For new believers: Feeling sorry is not the same as repenting. True repentance, <i>metanoia</i>, is a complete turning around. A reorientation of how you think about sin and about Elohim.",
 
     { type: "heading", text: "Why Repentance Matters" },
 
@@ -53,8 +53,8 @@ BOOKLET_CONTENT["1-9"] = {
 
     { type: "list", items: [
       "For the forgiveness of sins: Acts 2:38; Loukas 24:46\u201347. Repentance is the door through which forgiveness enters.",
-      "It is Eloh\u00EEm\u2019s desire for every person: 2 Petros 3:9. Eloh\u00EEm is not willing that any should perish. Repentance is the path He has made available to all.",
-      "It is a command: Acts 17:30. Eloh\u00EEm commands all people everywhere to repent. This is not a suggestion."
+      "It is Elohim\u2019s desire for every person: 2 Petros 3:9. Elohim is not willing that any should perish. Repentance is the path He has made available to all.",
+      "It is a command: Acts 17:30. Elohim commands all people everywhere to repent. This is not a suggestion."
     ] },
 
     "And the consequence of refusing to repent is stated plainly in Loukas 13:3.",
@@ -71,7 +71,7 @@ BOOKLET_CONTENT["1-9"] = {
 
     { type: "heading", text: "What Is a Dead Work?" },
 
-    "A dead work is any work done in an attempt to be right with Eloh\u00EEm, or to maintain right standing with Eloh\u00EEm, when Mashiah has already accomplished that. It is attempting to clean what has already been cleaned. That is what makes the work dead: not that it leads somewhere harmful, but that it leads nowhere at all. It is a useless effort directed at a problem that has already been solved.",
+    "A dead work is any work done in an attempt to be right with Elohim, or to maintain right standing with Elohim, when Mashiah has already accomplished that. It is attempting to clean what has already been cleaned. That is what makes the work dead: not that it leads somewhere harmful, but that it leads nowhere at all. It is a useless effort directed at a problem that has already been solved.",
 
     { type: "statement", text: "Is this work being done because I trust what Mashiah has done \u2014 or because I am trying to earn or maintain something He has already given me freely?" },
 
@@ -80,12 +80,12 @@ BOOKLET_CONTENT["1-9"] = {
     "Three things drive a believer toward dead works:",
 
     { type: "list", items: [
-      "Worry \u2014 Anxious effort to secure Eloh\u00EEm\u2019s acceptance that is already ours in Mashiah.",
+      "Worry \u2014 Anxious effort to secure Elohim\u2019s acceptance that is already ours in Mashiah.",
       "Fear \u2014 The dread that we have not done enough, that Mashiah\u2019s work was somehow insufficient.",
       "Guilt \u2014 Religious performance driven by an unclean conscience, trying to earn back what grace already provides."
     ] },
 
-    "When we worry about whether Eloh\u00EEm accepts us, when we fear we have not done enough, when guilt drives us to religious performance to ease our conscience, we are doing dead works. We are laboring at something Mashiah has already finished.",
+    "When we worry about whether Elohim accepts us, when we fear we have not done enough, when guilt drives us to religious performance to ease our conscience, we are doing dead works. We are laboring at something Mashiah has already finished.",
 
     { type: "heading", text: "The Process of Repentance" },
 
@@ -104,17 +104,17 @@ BOOKLET_CONTENT["1-9"] = {
 
     "Why repent from dead works? The answer is given in Hebrews 9:14.",
 
-    { type: "quote", text: "how much more will the blood of Mashiah, who through the eternal Spirit offered himself without blemish to Eloh\u00EEm, cleanse your conscience from dead works to serve the living Eloh\u00EEm?", source: "Hebrews 9:14" },
+    { type: "quote", text: "how much more will the blood of Mashiah, who through the eternal Spirit offered himself without blemish to Elohim, cleanse your conscience from dead works to serve the living Elohim?", source: "Hebrews 9:14" },
 
-    "The blood of Mashiah cleanses our conscience from dead works. Notice the purpose given \u2014 not simply so we feel better, not so we carry less guilt \u2014 but so that we may serve Eloh\u00EEm.",
+    "The blood of Mashiah cleanses our conscience from dead works. Notice the purpose given \u2014 not simply so we feel better, not so we carry less guilt \u2014 but so that we may serve Elohim.",
 
     "A conscience still burdened by dead works cannot serve freely. It is always looking inward, always measuring, always performing, always anxious about whether it has done enough. It has no capacity left to simply love and serve.",
 
-    "When we repent from dead works, when we turn away from the exhausting effort of trying to earn what Mashiah has already given, our conscience is freed. And from that freedom, genuine service to Eloh\u00EEm becomes possible for the first time.",
+    "When we repent from dead works, when we turn away from the exhausting effort of trying to earn what Mashiah has already given, our conscience is freed. And from that freedom, genuine service to Elohim becomes possible for the first time.",
 
     { type: "statement", text: "Mashiah\u2019s work is finished. Repentance from dead works is simply trusting that it is." },
 
-    { type: "quote", text: "For he who has entered into his rest, has himself also rested from his works, as Eloh\u00EEm from his.", source: "Hebrews 4:10" }
+    { type: "quote", text: "For he who has entered into his rest, has himself also rested from his works, as Elohim from his.", source: "Hebrews 4:10" }
   ],
   supportingVerses: [],
   closing: "",
@@ -131,14 +131,14 @@ BOOKLET_CONTENT["1-9"] = {
     "Yerushalaim": "Jerusalem, from Yeru (foundation/city) and Shalom (peace): 'city of peace'",
 
     // Theological terms
-    "repentance": "a sincere turning away from sin and turning toward Eloh\u00EEm; a complete change of heart, mind, and direction",
-    "Old Covenant": "the agreement between Eloh\u00EEm and Yisrael established through Moshe, centered on the Torah and the sacrificial system",
-    "New Covenant": "the agreement established through the blood of Mashiah, replacing the Old Covenant with a direct relationship with Eloh\u00EEm through faith",
-    "priesthood": "the office and order of priests who served as mediators between Eloh\u00EEm and His people, offering sacrifices on their behalf",
+    "repentance": "a sincere turning away from sin and turning toward Elohim; a complete change of heart, mind, and direction",
+    "Old Covenant": "the agreement between Elohim and Yisrael established through Moshe, centered on the Torah and the sacrificial system",
+    "New Covenant": "the agreement established through the blood of Mashiah, replacing the Old Covenant with a direct relationship with Elohim through faith",
+    "priesthood": "the office and order of priests who served as mediators between Elohim and His people, offering sacrifices on their behalf",
     "Levitical priesthood": "the priestly order descended from the tribe of Levi, appointed to serve in the Temple and offer sacrifices under the Old Covenant",
     "sacrificial system": "the Old Covenant practice of offering animal sacrifices to atone for sin, foreshadowing the final sacrifice of Mashiah",
     "High Priest": "the chief priest who alone could enter the Most Holy Place once a year to make atonement for the people; Mashiah is the ultimate High Priest",
-    "conscience": "the inner sense of right and wrong; the part of a person that feels guilt or peace before Eloh\u00EEm",
+    "conscience": "the inner sense of right and wrong; the part of a person that feels guilt or peace before Elohim",
     "blemish": "a flaw or defect; a sacrifice 'without blemish' means perfect and without fault — pointing to Mashiah's sinless life",
 
     // Greek terms
