@@ -220,7 +220,7 @@ BOOKLET_CONTENT["1-2"] = {
     "Tav": "the last letter of the Hebrew alphabet \u2014 in ancient script drawn as a cross-like mark, meaning \u2018sign\u2019",
     // Vocabulary \u2014 theological terms
     "monotheism": "the belief that there is only one God",
-    "incarnation": "the act of God taking on human flesh \u2014 from the Latin incarnare, \u2018to make flesh\u2019",
+    "incarnation": "the act of Elohim taking on human flesh \u2014 from the Latin incarnare, \u2018to make flesh\u2019",
     "idolatry": "the worship of idols or false gods",
     "polytheism": "the belief in or worship of multiple gods",
     "sovereignty": "supreme authority and power over all things",
