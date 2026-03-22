@@ -8,6 +8,8 @@ BOOKLET_CONTENT["1-9"] = {
   content: [
     "The writer of Hebrews lists repentance from dead works as the very first element of the foundation of the faith. To understand what this means, we must first understand who the letter was written to and why. Without that background, the phrase \u201Crepentance from dead works\u201D can be easy to misread.",
 
+    { type: "quote", text: "Therefore leaving the word of the beginning of the Mashiah, let us go on to perfection, not laying again the foundation of repentance from dead works, and of faith in Elohim, of the doctrine of washings, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.", source: "Hebrews 6:1\u20132" },
+
     { type: "heading", text: "Why Hebrews?" },
 
     { type: "heading", text: "Who Was the Letter Written To?" },
