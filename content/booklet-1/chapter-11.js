@@ -87,7 +87,7 @@ BOOKLET_CONTENT["1-11"] = {
 
     { type: "heading", text: "Blessings" },
 
-    "The Bible shows that blessings are not abstract words but can be transmitted through physical acts, especially the laying on of hands. This practice, seen in both the Old and New Testaments, demonstrates how Elohim uses human touch to impart spiritual favour, destiny, and life.",
+    "The Bible shows that blessings are not abstract words but can be transmitted through physical acts, especially the laying on of hands. This practice, seen in both the Old and New Covenants, demonstrates how Elohim uses human touch to impart spiritual favour, destiny, and life.",
 
     "In Markos 10:13\u201316, Scripture records: \u201CAnd they brought to him children that he might touch them. But the disciples rebuked sharply those bringing them. But Yehoshua, seeing it, was indignant and said to them: Let the children come to me, and do not hinder them, for of such is the Kingdom of Elohim\u2026 And having taken them in his arms, he blessed them, laying his hands upon them.\u201D Here, Yehoshua laid His hands on the children, imparting divine blessing. His touch was not casual; it was a transmission of Elohim\u2019s favour and affirmation of their place in the kingdom.",
 

@@ -124,7 +124,7 @@ BOOKLET_CONTENT["1-2"] = {
 
     { type: "quote", text: "Therefore Adonai himself will give you a sign; Behold, the virgin will conceive, and bear a son, and will call his name Immanu-El.", source: "Yesha\u2019yah 7:14" },
 
-    "The \u201Csign\u201D (Tav) is explained further. The virgin birth is not merely a miracle\u2014it is the visible manifestation of the invisible Elohim. Immanu-El means \u201CElohim with us.\u201D This is not another god, nor a separate divine being, but the same Lord who spoke in Yesha\u2019yah 44:6.",
+    "The \u201Csign\u201D (Tav) is explained further. The virgin birth is not merely a miracle\u2014it is the visible manifestation of the invisible Elohim. Immanu-El means \u201CElohim with us.\u201D This is not another elohim, nor a separate divine being, but the same Lord who spoke in Yesha\u2019yah 44:6.",
 
     "The invisible Elohim (Aleph) became visible (Tav) in the Son. The incarnation is the fulfilment of the promise of salvation.",
 
