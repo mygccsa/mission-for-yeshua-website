@@ -159,7 +159,7 @@ BOOKLET_CONTENT["1-11"] = {
       "Receiving Demons or Curses: By laying hands without discernment, one can receive spiritual oppression or curses carried by another.",
       "Participating in Sin: For example, if someone \u201Cblesses\u201D a gay marriage, a scammer, or any ungodly act, they are endorsing sin and risk being defiled.",
       "Foreign Fire: Just as Nadav and Avihu (Nadab and Abihu) offered strange fire before the Lord (Vayikra 10:1\u20132), laying hands without Elohim\u2019s direction can bring judgment instead of blessing.",
-      "Haste in Ordination: Laying hands on an elder or leader without Elohim\u2019s confirmation can lead to disaster. If the Lord has not spoken, do not rush into it."
+      "Laying hands with haste: Laying hands on an elder or leader without Elohim\u2019s confirmation can lead to disaster. If the Lord has not spoken, do not rush into it."
     ] },
 
     "The laying on of hands is powerful, but it must be exercised with discernment and humility. Vayikra 16:20\u201322 shows that sin can be transmitted, and 1 Timothy 5:22 warns that we can become partakers of another\u2019s sin. Therefore, believers must not be quick to lay hands without conviction from the Lord. The act should always transmit life, blessing, and the Spirit of Elohim\u2014not curses, demons, or sin. In all cases, discernment, prayer, and obedience are essential to ensure that the laying on of hands remains a holy channel of Elohim\u2019s grace.",
