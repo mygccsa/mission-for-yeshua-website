@@ -8,7 +8,7 @@ BOOKLET_CONTENT["1-11"] = {
   content: [
     "When in the church you do not consider the laying on of the hands, some blessings will never happen. When one amputates his or her faith of a fundamental part of the scripture, he may not make it to heaven.",
 
-    "The laying on of hands in the Bible originated in the Old Covenant as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament as a means of imparting the Holy Spirit, healing, and ordination. It represents the transmission of authority, blessing, and divine power.",
+    "The laying on of hands in the Bible originated in the Old Covenant as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament. It represents the transmission of authority, blessing, and divine power.",
 
     { type: "heading", text: "1. The Importance of the Hands Under the Old Covenant" },
 
