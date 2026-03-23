@@ -8,7 +8,7 @@ BOOKLET_CONTENT["1-11"] = {
   content: [
     "When in the church you do not consider the laying on of the hands, some blessings will never happen. When one amputates his or her faith of a fundamental part of the scripture, he may not make it to heaven.",
 
-    "The laying on of hands in the Bible originated in the Old Covenant as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament as a means of imparting the Holy Spirit, healing, and ordination. It represents the transmission of authority, blessing, and divine power.",
+    "The laying on of hands in the Bible originated in the Old Covenant as a symbolic act of blessing, commissioning, and identification, later carried into the New Testament. It represents the transmission of authority, blessing, and divine power.",
 
     { type: "heading", text: "1. The Importance of the Hands Under the Old Covenant" },
 
@@ -16,13 +16,13 @@ BOOKLET_CONTENT["1-11"] = {
 
     "The practice also carried the meaning of blessing, as seen when Yaaqov (Jacob) deliberately crossed his hands to bless Ephraim and Menasheh: \u201CIsrael stretched out his right hand, and laid it upon Ephraim\u2019s head, who was the younger, and his left hand upon Menasheh\u2019s head\u2026 And he blessed Yossef, and said: Elohim, before whom my fathers Abraham and Yitzhak did walk\u2026\u201D (Bereshit 48:14\u201315). Beyond sacrifice and blessing, laying on of hands was central in commissioning leaders. Moshe (Moses), under Elohim\u2019s command, laid his hands on Yehoshua (Jesus) to appoint him as his successor: \u201CAnd he laid his hands upon him, and gave him a charge, as YHWH commanded by the hand of Moshe\u201D (Bamidbar 27:18\u201323).",
 
-    "In each case, the act was performed with solemnity, visibly connecting the worshipper, the community, and Elohim\u2019s work. Its importance lies in the fact that it represented the transfer of sin, the impartation of blessing, and the consecration of authority. This Old Covenant practice prepared the way for its fuller meaning in the New Covenant, where laying on of hands became a means of imparting the Holy Spirit, healing, and ordination. In essence, it was an Elohim-given symbol of transference and consecration, performed through physical touch to demonstrate spiritual realities.",
+    "In each case, the act was performed with solemnity, visibly connecting the worshipper, the community, and Elohim\u2019s work. Its importance lies in the fact that it represented the transfer of sin, the impartation of blessing, and the consecration of authority. This Old Covenant practice prepared the way for its fuller meaning in the New Covenant. In essence, it was an Elohim-given symbol of transference and consecration, performed through physical touch to demonstrate spiritual realities.",
 
     { type: "heading", text: "2. The Relationship Between Yehoshua Mashiah (Christ) and Men Through the Laying on of Hands Under the New Covenant" },
 
     "The practice of laying on of hands under the New Covenant is both a continuation and a fulfilment of the Old Covenant. In the Old Covenant, this act symbolized the transfer of sin onto sacrificial animals, imparted blessings, and conferred authority. These rituals were shadows pointing to Mashiah, the true sacrifice and mediator. As Hebrews 9 explains, the earthly tabernacle and sacrifices were copies of heavenly realities, preparing the way for Yehoshua, whose blood brought eternal redemption. Thus, what was once symbolic in the Old Covenant became reality in Mashiah, who now imparts His Spirit and authority directly to believers through the laying on of hands.",
 
-    "Under the New Covenant, the laying on of hands became a means of imparting the Holy Spirit, healing, and ordination. In Acts 8:17, Petros (Peter) and Yohanan (John) laid hands on believers, and they received the Holy Spirit. Similarly, in Acts 19:6, Paulos (Paul) laid hands on disciples, and they spoke in tongues and prophesied. These acts visibly connected men to Mashiah\u2019s power and presence, showing that forgiveness, transformation, and empowerment flow through Him.",
+    "In Acts 8:17, Petros (Peter) and Yohanan (John) laid hands on believers, and they received the Holy Spirit. Similarly, in Acts 19:6, Paulos (Paul) laid hands on disciples, and they spoke in tongues and prophesied. These acts visibly connected men to Mashiah\u2019s power and presence, showing that forgiveness, transformation, and empowerment flow through Him.",
 
     "The Old Covenant sacrifices were shadows of Mashiah\u2019s ultimate offering. When worshippers laid hands on bulls, lambs, or pigeons, they symbolically transferred guilt to the animal. Each of these animals foreshadowed aspects of Mashiah\u2019s mission:",
 
@@ -159,7 +159,7 @@ BOOKLET_CONTENT["1-11"] = {
       "Receiving Demons or Curses: By laying hands without discernment, one can receive spiritual oppression or curses carried by another.",
       "Participating in Sin: For example, if someone \u201Cblesses\u201D a gay marriage, a scammer, or any ungodly act, they are endorsing sin and risk being defiled.",
       "Foreign Fire: Just as Nadav and Avihu (Nadab and Abihu) offered strange fire before the Lord (Vayikra 10:1\u20132), laying hands without Elohim\u2019s direction can bring judgment instead of blessing.",
-      "Haste in Ordination: Laying hands on an elder or leader without Elohim\u2019s confirmation can lead to disaster. If the Lord has not spoken, do not rush into it."
+      "Laying hands with haste: Laying hands on an elder or leader without Elohim\u2019s confirmation can lead to disaster. If the Lord has not spoken, do not rush into it."
     ] },
 
     "The laying on of hands is powerful, but it must be exercised with discernment and humility. Vayikra 16:20\u201322 shows that sin can be transmitted, and 1 Timothy 5:22 warns that we can become partakers of another\u2019s sin. Therefore, believers must not be quick to lay hands without conviction from the Lord. The act should always transmit life, blessing, and the Spirit of Elohim\u2014not curses, demons, or sin. In all cases, discernment, prayer, and obedience are essential to ensure that the laying on of hands remains a holy channel of Elohim\u2019s grace.",
@@ -283,8 +283,7 @@ BOOKLET_CONTENT["1-11"] = {
     // Theological terms
     "atonement": "the act of making amends for sin; the reconciliation of Elohim and humankind through sacrifice",
     "consecration": "the act of setting apart something or someone as holy and dedicated to Elohim's service",
-    "impartation": "the act of transmitting or bestowing a spiritual gift, blessing, or authority from one person to another",
-    "ordination": "the formal setting apart of a person for ministry or spiritual office through prayer and the laying on of hands",
+    "impartation": "the act of transmitting or bestowing a spiritual gift, blessing, or authority from the Lord through one person to another",
     "tabernacle": "the portable tent-sanctuary where Elohim's presence dwelt among the Israelites during their wilderness journey",
     "substitution": "the act of one thing or person taking the place of another; in sacrifice, the animal dying in place of the sinner",
     "deacons": "servants appointed by the assembly to handle practical matters such as finances and care for the needy",
