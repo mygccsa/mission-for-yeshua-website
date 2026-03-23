@@ -283,8 +283,7 @@ BOOKLET_CONTENT["1-11"] = {
     // Theological terms
     "atonement": "the act of making amends for sin; the reconciliation of Elohim and humankind through sacrifice",
     "consecration": "the act of setting apart something or someone as holy and dedicated to Elohim's service",
-    "impartation": "the act of transmitting or bestowing a spiritual gift, blessing, or authority from one person to another",
-    "ordination": "the formal setting apart of a person for ministry or spiritual office through prayer and the laying on of hands",
+    "impartation": "the act of transmitting or bestowing a spiritual gift, blessing, or authority from the Lord through one person to another",
     "tabernacle": "the portable tent-sanctuary where Elohim's presence dwelt among the Israelites during their wilderness journey",
     "substitution": "the act of one thing or person taking the place of another; in sacrifice, the animal dying in place of the sinner",
     "deacons": "servants appointed by the assembly to handle practical matters such as finances and care for the needy",
