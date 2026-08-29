@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initializeBookletShareButtons();
     initializeDarkMode();
     initializeScrollProgress();
+    initializeCopyButtons();
 });
 
 // Preloader
@@ -695,3 +696,55 @@ function initializeScrollProgress() {
 
 
 
+
+// Copy-to-clipboard buttons (e.g. banking details on the community center page)
+function initializeCopyButtons() {
+    const copyButtons = document.querySelectorAll('[data-copy]');
+    if (!copyButtons.length) return;
+
+    const copyText = (text) => {
+        if (navigator.clipboard && window.isSecureContext) {
+            return navigator.clipboard.writeText(text);
+        }
+
+        // Fallback for browsers/contexts without the async clipboard API
+        return new Promise((resolve, reject) => {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.setAttribute('readonly', '');
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+
+            try {
+                document.execCommand('copy') ? resolve() : reject();
+            } catch (err) {
+                reject(err);
+            } finally {
+                document.body.removeChild(textarea);
+            }
+        });
+    };
+
+    copyButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            copyText(button.dataset.copy).then(() => {
+                const originalHTML = button.innerHTML;
+                const originalLabel = button.getAttribute('aria-label');
+
+                button.innerHTML = '<i class="fas fa-check" aria-hidden="true"></i>';
+                button.classList.add('copied');
+                button.setAttribute('aria-label', 'Copied');
+
+                setTimeout(() => {
+                    button.innerHTML = originalHTML;
+                    button.classList.remove('copied');
+                    button.setAttribute('aria-label', originalLabel);
+                }, 2000);
+            }).catch(() => {
+                // Clipboard unavailable - the value stays visible on the page
+            });
+        });
+    });
+}

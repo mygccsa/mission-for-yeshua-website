@@ -406,3 +406,240 @@
         font-size: 2.5rem;
     }
 }
+
+/* ==========================================================================
+   Support / Banking Details
+   ========================================================================== */
+.support-section {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid rgba(30, 90, 138, 0.2);
+    text-align: center;
+}
+
+.support-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.support-intro {
+    max-width: 640px;
+    margin: 0 auto 2rem;
+    color: var(--text-secondary);
+}
+
+.bank-card {
+    max-width: 620px;
+    margin: 0 auto;
+    text-align: left;
+    background: var(--bg-white);
+    border: 1px solid rgba(30, 90, 138, 0.12);
+    border-radius: var(--radius-lg);
+    box-shadow: 0 10px 40px rgba(30, 90, 138, 0.12);
+    overflow: hidden;
+}
+
+.bank-card-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.5rem 1.75rem;
+    background: var(--gradient-primary);
+    color: #fff;
+}
+
+.bank-card-icon {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.18);
+}
+
+.bank-card-title h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.bank-card-title span {
+    display: block;
+    font-size: 0.9rem;
+    opacity: 0.85;
+}
+
+.bank-details {
+    margin: 0;
+    padding: 0.5rem 1.75rem;
+}
+
+.bank-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid rgba(30, 90, 138, 0.1);
+}
+
+.bank-row:last-child {
+    border-bottom: none;
+}
+
+.bank-row dt {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.bank-hint {
+    font-weight: 400;
+    color: var(--text-muted-improved);
+}
+
+.bank-row dd {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-align: right;
+}
+
+.bank-value {
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+}
+
+.bank-row-highlight .bank-value {
+    font-size: 1.15rem;
+    color: var(--primary);
+}
+
+.copy-btn {
+    flex-shrink: 0;
+    width: 34px;
+    height: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(30, 90, 138, 0.2);
+    border-radius: var(--radius-sm);
+    background: rgba(30, 90, 138, 0.06);
+    color: var(--primary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.copy-btn:hover {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
+}
+
+.copy-btn:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+}
+
+.copy-btn.copied {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: #fff;
+}
+
+.bank-note {
+    margin: 0;
+    padding: 1.25rem 1.75rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    background: rgba(30, 90, 138, 0.05);
+    border-top: 1px solid rgba(30, 90, 138, 0.1);
+}
+
+.bank-note i {
+    color: var(--primary);
+    margin-right: 0.35rem;
+}
+
+.bank-note a {
+    color: var(--primary);
+    font-weight: 600;
+    word-break: break-word;
+}
+
+.support-thanks {
+    max-width: 620px;
+    margin: 1.75rem auto 0;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+}
+
+/* Dark mode */
+body.dark-mode .bank-card {
+    background: var(--bg-dark-secondary);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+body.dark-mode .bank-row {
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+}
+
+body.dark-mode .bank-row dt,
+body.dark-mode .support-intro,
+body.dark-mode .support-thanks,
+body.dark-mode .bank-note {
+    color: #cbd5e1;
+}
+
+body.dark-mode .bank-value {
+    color: #f1f5f9;
+}
+
+body.dark-mode .bank-row-highlight .bank-value,
+body.dark-mode .bank-note i,
+body.dark-mode .bank-note a {
+    color: var(--secondary-light);
+}
+
+body.dark-mode .copy-btn {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.15);
+    color: #e2e8f0;
+}
+
+body.dark-mode .copy-btn:hover {
+    background: var(--primary-light);
+    border-color: var(--primary-light);
+    color: #fff;
+}
+
+body.dark-mode .bank-note {
+    background: rgba(255, 255, 255, 0.04);
+    border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 480px) {
+    .bank-card-header,
+    .bank-details,
+    .bank-note {
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+    }
+
+    .bank-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.35rem;
+    }
+
+    .bank-row dd {
+        text-align: left;
+    }
+}
